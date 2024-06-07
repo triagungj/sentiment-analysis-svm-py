@@ -1,192 +1,1297 @@
 text,sentiment
-"OJK Blak-Blakan Alasan Tingginya Kredit Macet BPR Hingga Banyak Tutup",negatif
-"BSI Fokus Perlebar Pangsa Pasar ke Timur Tengah",positif
-"Fitur Canggih QLola by BRI Permudah Transaksi Bisnis Nasabah Korporasi",positif
-"Saham Eks Jiwasraya Sitaan Kejagung (ANDI) Punya Investor Baru",positif
-"BSI Angkat Tiga Komisaris dan Dua Direktur Baru",positif
-"Tok! BSI Bagi Dividen Rp 855 Miliar atau Rp 18,54 per Saham",positif
-"Peran QLola by BRI di Trade Finance & Sektor Supply Chain Management",positif
-"IHSG Sukses Happy Weekend, 5 Saham Ini Jadi Penggeraknya",positif
-"Investor Ini Diam-Diam Jadi Pemegang Saham 5% Dua Emiten Dalam Sehari",positif
-"Bos Mitra10 (CSAP) Borong Saham Rp 12 Miliar, Buat Apa?",positif
-"Sri Mulyani Terbitkan Samurai Bond, Tarik Utang Baru Rp20,8 T",positif
-"Saham naik karena investor tetap optimis tentang ekonomi.",positif
-"Pasaran jatuh setelah laporan laba yang mengecewakan.",negatif
-"Perusahaan teknologi mengumumkan keuntungan yang memecahkan rekor.",positif
-"Investor khawatir tentang inflasi dan kenaikan suku bunga.",negatif
-"Emiten pertambangan alami kenaikan harga saham signifikan.",positif
-"Nilai tukar rupiah melemah, pasar saham tertekan.",negatif
-"Penggabungan dua perusahaan besar disambut baik oleh pasar.",positif
-"Penurunan harga komoditas menyebabkan saham terkait jatuh.",negatif
-"Dividen tinggi dari perusahaan blue-chip menarik minat investor.",positif
-"Kebijakan baru pemerintah dukung pertumbuhan sektor energi.",positif
-"Laba bersih perusahaan turun akibat peningkatan biaya operasional.",negatif
-"Sektor properti menunjukkan tanda-tanda pemulihan.",positif
-"Skandal keuangan mengguncang perusahaan teknologi ternama.",negatif
-"Penawaran saham perdana (IPO) perusahaan startup sukses besar.",positif
-"Ketidakpastian politik regional mempengaruhi pasar saham.",negatif
-"Pengumuman akuisisi oleh perusahaan besar mendorong harga saham naik.",positif
-"Penurunan harga minyak global membebani sektor energi.",negatif
-"Saham bank besar naik setelah laporan laba yang solid.",positif
-"Rencana ekspansi internasional perusahaan disambut positif oleh investor.",positif
-"Peningkatan suku bunga oleh bank sentral mengkhawatirkan pasar.",negatif
-"Laporan pendapatan kuartalan perusahaan mengalahkan ekspektasi.",positif
-"Pemangkasan tenaga kerja oleh perusahaan besar menyebabkan kekhawatiran.",negatif
-"Perusahaan ritel melaporkan peningkatan penjualan yang signifikan.",positif
-"Krisis ekonomi global membayangi pasar saham.",negatif
-"Investasi besar dalam teknologi hijau dipuji oleh pasar.",positif
-"Penurunan permintaan menyebabkan harga saham produsen jatuh.",negatif
-"Strategi baru manajemen perusahaan meningkatkan optimisme investor.",positif
-"Kenaikan pajak perusahaan berdampak negatif pada laba bersih.",negatif
-"Inovasi produk baru diterima dengan baik oleh konsumen dan pasar.",positif
-"Protes buruh besar-besaran mengganggu operasional perusahaan.",negatif
-"Perusahaan farmasi mengumumkan terobosan medis, saham melonjak.",positif
-"Pasar saham mengalami volatilitas tinggi karena ketidakpastian global.",negatif
-"Keputusan merger disambut baik, saham kedua perusahaan naik.",positif
-"Laporan keuangan yang buruk menekan harga saham.",negatif
-"Program buyback saham meningkatkan nilai saham perusahaan.",positif
-"Krisis kesehatan global mempengaruhi kinerja pasar saham.",negatif
-"Perusahaan mengumumkan rencana pengembangan bisnis jangka panjang.",positif
-"Harga komoditas jatuh, mempengaruhi saham sektor pertambangan.",negatif
-"Kinerja keuangan yang kuat menarik minat investor institusional.",positif
-"Kebijakan moneter ketat menekan pertumbuhan pasar saham.",negatif
-"Investasi besar dalam riset dan pengembangan dipuji oleh analis.",positif
-"Kerugian besar dilaporkan oleh perusahaan minyak dan gas.",negatif
-"Perusahaan berhasil capai target penjualan tahunan lebih awal.",positif
-"Ketidakpastian perdagangan global mempengaruhi pasar saham.",negatif
-"Pengumuman dividen spesial meningkatkan minat investor.",positif
-"Penurunan produksi menyebabkan harga saham industri turun.",negatif
-"Akuisisi strategis oleh perusahaan besar meningkatkan nilai saham.",positif
-"Pasar saham terpukul oleh ketidakpastian politik.",negatif
-"Perusahaan e-commerce melaporkan peningkatan pendapatan signifikan.",positif
-"Krisis energi global menyebabkan volatilitas pasar saham.",negatif
-"Peningkatan produksi membawa optimisme pada saham perusahaan manufaktur.",positif
-"Penurunan harga properti membebani saham sektor terkait.",negatif
-"Keberhasilan strategi pemasaran baru mendorong pertumbuhan saham.",positif
-"Laporan kerugian perusahaan menyebabkan penurunan harga saham.",negatif
-"Perusahaan telekomunikasi mengumumkan peningkatan laba bersih.",positif
-"Ketidakpastian ekonomi global menyebabkan investor berhati-hati.",negatif
-"Pengembangan teknologi baru meningkatkan prospek pertumbuhan saham.",positif
-"Kenaikan biaya bahan baku menekan laba perusahaan.",negatif
-"Perusahaan berhasil mencapai target keberlanjutan lingkungan.",positif
-"Perusahaan melaporkan kerugian akibat bencana alam.",negatif
-"Saham naik setelah laporan keuangan yang kuat dirilis.",positif
-"Investor waspada terhadap potensi resesi ekonomi.",negatif
-"Kerjasama strategis antar perusahaan meningkatkan prospek saham.",positif
-"Penurunan permintaan produk menyebabkan saham turun.",negatif
-"Perusahaan mencapai kesepakatan besar dengan mitra internasional.",positif
-"Krisis politik regional mempengaruhi pasar saham lokal.",negatif
-"Pengumuman peluncuran produk baru meningkatkan minat investor.",positif
-"Laporan pendapatan yang mengecewakan menekan harga saham.",negatif
-"Perusahaan meluncurkan inisiatif keberlanjutan yang ambisius.",positif
-"Penurunan nilai tukar mata uang menyebabkan saham jatuh.",negatif
-"Akuisisi oleh perusahaan besar diterima positif oleh pasar.",positif
-"Ketidakpastian regulasi berdampak negatif pada saham.",negatif
-"Perusahaan teknologi melaporkan peningkatan pengguna yang signifikan.",positif
-"Penurunan harga minyak global membebani sektor energi.",negatif
-"Perusahaan mencatat rekor penjualan dalam kuartal terakhir.",positif
-"Kenaikan suku bunga menyebabkan kekhawatiran di kalangan investor.",negatif
-"Inovasi produk baru disambut baik oleh pasar.",positif
-"Penurunan harga komoditas mempengaruhi saham pertambangan.",negatif
-"Laporan keuangan yang kuat mendorong kenaikan harga saham.",positif
-"Krisis kesehatan global menyebabkan volatilitas pasar.",negatif
-"Perusahaan mencapai kesepakatan besar dengan mitra internasional.",positif
-"Penghargaan dari pemerintah meningkatkan citra perusahaan.",positif
-"Penurunan permintaan dari pasar luar negeri membebani kinerja perusahaan.",negatif
-"Perusahaan memperluas jaringan distribusi untuk meningkatkan penjualan.",positif
-"Kenaikan tarif impor menghambat pertumbuhan industri.",negatif
-"Inisiatif digitalisasi perusahaan diterima positif oleh pasar.",positif
-"Pengumuman kerugian kuartal menyebabkan saham anjlok.",negatif
-"Saham teknologi melonjak setelah pengumuman kerjasama baru.",positif
-"Kebijakan fiskal baru memberikan dorongan bagi pasar saham.",positif
-"Pelemahan ekonomi global membebani sentimen pasar saham.",negatif
-"Perusahaan mengumumkan program CSR yang ambisius.",positif
-"Penurunan penjualan retail menyebabkan saham jatuh.",negatif
-"Inovasi teknologi baru meningkatkan efisiensi operasional perusahaan.",positif
-"Ketidakpastian kebijakan moneter membebani pasar saham.",negatif
-"Perusahaan memperoleh kontrak besar dari pemerintah.",positif
-"Penurunan harga komoditas energi membebani kinerja perusahaan.",negatif
-"Kenaikan pendapatan perusahaan mengalahkan ekspektasi analis.",positif
-"Krisis politik di Timur Tengah mempengaruhi pasar energi.",negatif
-"Strategi diversifikasi bisnis perusahaan diterima positif oleh pasar.",positif
-"Penurunan permintaan produk menyebabkan pengurangan produksi.",negatif
-"Perusahaan melaporkan peningkatan laba bersih yang signifikan.",positif
-"Krisis ekonomi menyebabkan penurunan harga saham secara luas.",negatif
-"Saham perusahaan konstruksi naik setelah proyek baru diumumkan.",positif
-"Pengurangan tenaga kerja menyebabkan kekhawatiran investor.",negatif
-"Perusahaan mengumumkan rencana ekspansi ke pasar internasional.",positif
-"Penurunan harga logam mulia mempengaruhi saham sektor pertambangan.",negatif
-"Pengembangan produk baru diterima baik oleh pasar.",positif
-"Kenaikan biaya bahan baku menekan margin keuntungan perusahaan.",negatif
-"Inisiatif hijau perusahaan mendapat dukungan dari investor.",positif
-"Pengumuman kerugian kuartal menyebabkan saham jatuh.",negatif
-"Perusahaan mengumumkan peningkatan dividen bagi pemegang saham.",positif
-"Penurunan permintaan global mempengaruhi kinerja ekspor perusahaan.",negatif
-"Perusahaan memperoleh penghargaan atas inovasi produk.",positif
-"Penurunan harga minyak mentah mempengaruhi saham energi.",negatif
-"Saham naik setelah pengumuman laporan keuangan yang kuat.",positif
-"Investor khawatir tentang potensi resesi ekonomi global.",negatif
-"Perusahaan melaporkan peningkatan laba operasional yang signifikan.",positif
-"Ketidakpastian politik regional mempengaruhi pasar saham.",negatif
-"Akuisisi strategis oleh perusahaan besar diterima baik oleh pasar.",positif
-"Laporan pendapatan yang mengecewakan menekan harga saham.",negatif
-"Perusahaan teknologi melaporkan rekor peningkatan pengguna.",positif
-"Penurunan harga komoditas membebani saham sektor pertambangan.",negatif
-"Kenaikan laba bersih perusahaan menarik minat investor.",positif
-"Krisis ekonomi global menyebabkan penurunan harga saham secara luas.",negatif
-"Pengumuman produk baru meningkatkan minat investor.",positif
-"Penurunan permintaan menyebabkan saham turun.",negatif
-"Perusahaan mengumumkan rencana merger strategis.",positif
-"Krisis kesehatan global menyebabkan volatilitas pasar saham.",negatif
-"Perusahaan mencatat peningkatan penjualan tahunan yang signifikan.",positif
-"Investor khawatir tentang kenaikan inflasi dan suku bunga.",negatif
-"Akuisisi oleh perusahaan besar diterima positif oleh pasar.",positif
-"Laporan pendapatan yang mengecewakan menekan harga saham.",negatif
-"Perusahaan mengumumkan peningkatan dividen bagi pemegang saham.",positif
-"Ketidakpastian ekonomi global menyebabkan investor berhati-hati.",negatif
-"Inovasi teknologi baru meningkatkan efisiensi operasional perusahaan.",positif
-"Penurunan permintaan global membebani kinerja ekspor perusahaan.",negatif
-"Saham teknologi melonjak setelah pengumuman kerjasama baru.",positif
-"Kebijakan fiskal baru memberikan dorongan bagi pasar saham.",positif
-"Pelemahan ekonomi global membebani sentimen pasar saham.",negatif
-"Perusahaan memperoleh kontrak besar dari pemerintah.",positif
-"Penurunan harga komoditas energi membebani kinerja perusahaan.",negatif
-"Strategi diversifikasi bisnis perusahaan diterima positif oleh pasar.",positif
-"Kenaikan pendapatan perusahaan mengalahkan ekspektasi analis.",positif
-"Krisis politik di Timur Tengah mempengaruhi pasar energi.",negatif
-"Saham perusahaan konstruksi naik setelah proyek baru diumumkan.",positif
-"Pengurangan tenaga kerja menyebabkan kekhawatiran investor.",negatif
-"Perusahaan melaporkan peningkatan laba bersih yang signifikan.",positif
-"Krisis ekonomi menyebabkan penurunan harga saham secara luas.",negatif
-"Perusahaan mengumumkan rencana ekspansi ke pasar internasional.",positif
-"Penurunan harga logam mulia mempengaruhi saham sektor pertambangan.",negatif
-"Pengembangan produk baru diterima baik oleh pasar.",positif
-"Kenaikan biaya bahan baku menekan margin keuntungan perusahaan.",negatif
-"Inisiatif hijau perusahaan mendapat dukungan dari investor.",positif
-"Pengumuman kerugian kuartal menyebabkan saham jatuh.",negatif
-"Perusahaan memperoleh penghargaan atas inovasi produk.",positif
-"Penurunan harga minyak mentah mempengaruhi saham energi.",negatif
-"Saham naik setelah pengumuman laporan keuangan yang kuat.",positif
-"Investor khawatir tentang potensi resesi ekonomi global.",negatif
-"Perusahaan melaporkan peningkatan laba operasional yang signifikan.",positif
-"Ketidakpastian politik regional mempengaruhi pasar saham.",negatif
-"Penghargaan dari pemerintah meningkatkan citra perusahaan.",positif
-"Penurunan permintaan dari pasar luar negeri membebani kinerja perusahaan.",negatif
-"Perusahaan memperluas jaringan distribusi untuk meningkatkan penjualan.",positif
-"Kenaikan tarif impor menghambat pertumbuhan industri.",negatif
-"Inisiatif digitalisasi perusahaan diterima positif oleh pasar.",positif
-"Pengumuman kerugian kuartal menyebabkan saham anjlok.",negatif
-"Strategi diversifikasi bisnis perusahaan diterima positif oleh pasar.",positif
-"Ketidakpastian kebijakan moneter membebani pasar saham.",negatif
-"Perusahaan memperoleh penghargaan atas inovasi produk.",positif
-"Penurunan harga minyak mentah mempengaruhi saham energi.",negatif
-"Saham teknologi melonjak setelah pengumuman kerjasama baru.",positif
-"Kebijakan fiskal baru memberikan dorongan bagi pasar saham.",positif
-"Pelemahan ekonomi global membebani sentimen pasar saham.",negatif
-"Perusahaan melaporkan peningkatan laba bersih yang signifikan.",positif
-"Penurunan harga komoditas energi membebani kinerja perusahaan.",negatif
-"Penghargaan dari pemerintah meningkatkan citra perusahaan.",positif
-"Penurunan permintaan dari pasar luar negeri membebani kinerja perusahaan.",negatif
-"Perusahaan memperluas jaringan distribusi untuk meningkatkan penjualan.",positif
-"Kenaikan tarif impor menghambat pertumbuhan industri.",negatif
-"Inisiatif digitalisasi perusahaan diterima positif oleh pasar.",positif
+"Resmi IPO, Intip Potensi Bisnis Dunia Virtual Online (AREA) di 2024 (2024/04/01)",positif
+"Awal Pekan Wall Street Merana, Gegara Inflasi Naik Lagi? (2024/04/01)",negatif
+"Video: IHSG & Rupiah Kompak Ambruk di Awal Pekan, Sampai Kapan? (2024/04/01)",negatif
+"Warga Jawa Barat Paling Banyak Nunggak Utang Pinjol, Tembus Rp16,55 T (2024/04/01)",negatif
+Dana Korupsi di PT Timah Mengalir ke Parpol? Ini Jawab Kejagung! (2024/04/01),negatif
+"Restrukturisasi Kredit Covid-19 Berakhir, Ini Tanggapan Bos BMRI (2024/04/01)",netral
+"Dolar AS Tembus Rp15.900, Begini Suasana di Money Changer Jakarta (2024/04/01)",negatif
+"Video: Sidang MK Panas, Bikin IHSG Sempat Anjlok Nyaris 2%? (2024/04/01)",negatif
+"Suami Terseret Kasus Timah, Rekening Sandra Dewi Diblokir Kejagung (2024/04/01)",negatif
+"Kerugian Waskita Bengkak 98,4% Sepanjang 2023 Jadi Rp 3,77 Triliun (2024/04/01)",negatif
+"Seabank Berhati-Hatilah, Ini Risiko yang Sedang Mengintai (2024/04/01)",negatif
+United E-Motor Buka Store Terbaru di AEON Deltamas (2024/04/01),positif
+"Video: Rupiah Sempat Tembus Rp 15.900/USD, Ini Biang Keroknya! (2024/04/01)",negatif
+"Ace Hardware (ACES) Cetak Laba Rp763,5 M di 2023, Naik 12,85% (2024/04/01)",positif
+"Viral Korupsi Timah Jerat Suami Sandra Dewi, Penambang Usul Ini (2024/04/01)",netral
+"Harvey Moeis Jadi Tersangka Kasus Timah, Sandra Dewi Dapat Terseret? (2024/04/01)",negatif
+Ini Penyebab IHSG Ambles 1% Lebih dan Balik ke Level 7.100 (2024/04/01),negatif
+"Kunjungi Industri Nikel di Morowali Utara, Kemnaker Apresiasi PT GNI (2024/04/01)",positif
+"Kinerja MTEL Melesat, Analis Sebut Strategi Akuisisi Menara Tepat (2024/04/01)",positif
+"Sempat Eror, Layanan BI Fast BCA Sudah Kembali Normal (2024/04/01)",netral
+"IHSG Ambles 1,15%, Gegara Sidang Sengketa Pemilu 2024 Makin Panas? (2024/04/01)",negatif
+BRI Sambut Baik Penghentian Restrukturisasi Kredit COVID-19 oleh OJK (2024/04/01),positif
+"7 Hari Isolasi, Harvey Moies Tak Bisa Dijenguk Sandra Dewi (2024/04/01)",netral
+Kejagung Buka Suara Soal Aset Mobil Mewah & Jet Pribadi Harvey Moeis (2024/04/01),netral
+Kejagung Periksa Sosok Penting Inisial RBS di Kasus Korupsi Timah (2024/04/01),negatif
+"Soal Wacana Nikel Premium yang Digagas BHP, Ini Kata Bos Eramet (2024/04/01)",netral
+Emiten Pengelola Hypermart (MPPA) Rugi Rp 225 Miliar di 2023 (2024/04/01),negatif
+"Kejagung Geledah Rumah Harvey Moeis, Suami Sandra Dewi! (2024/04/01)",negatif
+KB Bank Perluas Akses Fuel Card di Kabupaten Bintan (2024/04/01),positif
+Video: KB Bank Danai Kredit Alat Berat Terintegrasi United Tractors (2024/04/01),positif
+OJK Ungkap Penerima Manfaat Terbesar Restrukturisasi Kredit Covid-19 (2024/04/01),netral
+"Inflasi Dekati Batas Atas BI, Rupiah Ditutup di Rp15.885/US$ (2024/04/01)",negatif
+Manajemen SONA Buka Suara Soal Harga Saham Usai Terbang 180% Sebulan (2024/04/01),positif
+"Laba Tembus US$ 251 Juta, Begini Kinerja Garuda Indonesia (GIAA) (2024/04/01)",positif
+"MSIG Life Catat Laba Rp 126,49 M Selama 2023 (2024/04/01)",positif
+"Pendapatan Emiten Bengkel Pesawat Grup Garuda (GMFI) Tembus Rp 5,9 T (2024/04/01)",positif
+"Video: Laba Bumi Resources di 2023 Anjlok 97,92% (2024/04/01)",negatif
+"Aset PP Properti (PPRO) Ambles Rp2,12 T, Ini Penyebabnya (2024/04/01)",negatif
+"Harga Emas Cetak Rekor Terus, Sepanjang 2024 Sudah Terbang 10% (2024/04/01)",positif
+"Video: Sidang MK Memanas, IHSG Ambruk Sentuh Level 7.100-an (2024/04/01)",negatif
+"Sidang MK Panas, Potret IHSG Longsor 1,75% ke 7.161,5 (2024/04/01)",negatif
+"Jokowi Setujui Suntikan Modal Rp 3,55 T ke IFG Untuk Jiwasraya (2024/04/01)",netral
+"Pendapatan Naik, Laba Emiten Prajogo Pangestu (PTRO) Malah Jeblok 70% (2024/04/01)",negatif
+Temas (TMAS) Angkat Harto Khusumo Jadi Komisaris Utama (2024/04/01),netral
+IHSG Ambruk Nyaris 2% ke Level 7.100-an Kala Sidang MK Makin Panas (2024/04/01),negatif
+"Emiten Transportasi Laut Temas (TMAS) Bagi Dividen Rp 456,4 Miliar (2024/04/01)",positif
+Indika Energy (INDY) Caplok Perusahaan Minyak Atsiri (2024/04/01),netral
+"Laba Emiten Prajogo Pangestu (CUAN) Anjlok 60,19%, Ini Penyebabnya (2024/04/01)",negatif
+Segini Modal Asing Kabur dari RI Saat Sidang Sengketa Pilpres (2024/04/01),negatif
+Laba Emiten Bali United (BOLA) Milik Pieter Tanuri Jeblok 542% (2024/04/01),negatif
+"Beban Bunga Naik, Laba Emiten Grup Djarum (TOWR) Turun Jadi Rp 3,23 T (2024/04/01)",negatif
+"Laba Erajaya Swasembada (ERAA), Merosot 20,44% ke Rp 856,86 M (2024/04/01)",positif
+"Gara-Gara Ini, Laba Emiten Prajogo Pangestu (BRPT) Terbang 1.394% (2024/04/01)",positif
+6 Saham Big Cap Ini Jadi Motor IHSG Ambles 1% (2024/04/01),negatif
+"Saham Bank Jumbo Merah, Akibat Sengketa Pemilu atau Restrukturisasi? (2024/04/01)",negatif
+"Tersengat Harga Batu Bara, Laba Bumi Resources (BUMI) Turun 97,92% (2024/04/01)",negatif
+"Investor Was-was Sengketa Pilpres, Rupiah Jadi Terburuk di Asia (2024/04/01)",negatif
+"Ini Penyebab IHSG Ambles 1,08% ke 7.210 (2024/04/01)",negatif
+"Dolar AS Tembus Rp15.900, Ada 'Hot Money' Tiba-tiba Kabur dari RI (2024/04/01)",negatif
+"Video: Sidang MK Berlanjut, Rupiah Tembus Rp15.900 Per Dolar AS (2024/04/01)",negatif
+"Laba Agung Podomoro Land (APLN) Jeblok 43,5%, Ini Sebabnya (2024/04/01)",negatif
+"Sidang MK Makin Panas, IHSG Longsor 1,05% ke 7.212 (2024/04/01)",negatif
+"Pilpres Satu Putaran, Transaksi Pasar Berjangka Komoditas Siap Melesat (2024/04/01)",positif
+"Jelang RUPS, Astra (ASII) Beberkan Kisi-Kisi Dividen (2024/04/01)",positif
+"Sidang Sengketa Pilpres Mulai Panas, Dolar AS Tembus Rp15.900 (2024/04/01)",negatif
+"Sejak Pengumuman KPU hingga Sidang Sengketa, IHSG Sudah Ambles 1,32% (2024/04/01)",negatif
+"MK Gelar Sidang Sengketa Pilpres, IHSG & Rupiah Anjlok (2024/04/01)",negatif
+"Terhantam Boikot Israel, Rugi Emiten Pizza Hut (PZZA) Bengkak 310,23% (2024/04/01)",negatif
+"Resmi IPO Hari Ini, Saham Dunia Virtual Online (AREA) Naik 25% (2024/04/01)",negatif
+Video: PT Dunia Virtual Online Tbk Resmi Melantai Di BEI (2024/04/01),netral
+Laba Emiten Grup Bakrie (ENRG) Naik Jadi Rp 1 T karena Pajak Berkurang (2024/04/01),positif
+"Pasokan Terbatas & Manufaktur China Membaik, Minyak Dunia Bergairah (2024/04/01)",positif
+"Laba Emiten RS Bunda (BMHS) Anjlok 91,03%, Ternyata Ini Penyebabnya (2024/04/01)",negatif
+"Pendapatan Tembus Rp 1 T, Jasa Armada (IPCM) Kantongi Laba Rp 157,6 M (2024/04/01)",positif
+"Jelang Rilis Data Inflasi, Rupiah Makin Longsor ke Rp 15.855/US$ (2024/04/01)",negatif
+"Sri Mulyani: 12,35 Juta Wajib Pajak Lapor SPT Secara Online (2024/04/01)",netral
+"Manufaktur China Mulai Bangkit, Bursa Asia Cenderung Bergairah (2024/04/01)",positif
+"Kripto Kompak Naik Hari Ini, DOGE Terbang 7,8% (2024/04/01)",positif
+"Banyak Data Jelang Lebaran, Ini Analisa Nasib Rupiah (2024/04/01)",netral
+Risiko Mengintai Bank Digital Paling Jumbo di RI (2024/04/01),negatif
+"Bitcoin Diprediksi Bisa Sentuh Harga Rp 2,38 M Tahun Ini (2024/04/01)",positif
+"IHSG Turun 0,68%, Asing Jual Saham Ini hingga Rp 1,6 T (2024/04/01)",negatif
+"IHSG Terperosok ke 7.288, Asing Borong Saham BRI (BBRI) hingga MYOR (2024/04/01)",negatif
+"Digugat PTUN Oleh Minna Padi, Begini Respons OJK (2024/04/02)",netral
+"Yield Treasury Melesat, Wall Street Dibuka Berjatuhan (2024/04/02)",negatif
+"Heboh PT Timah Kesangkut Kasus Korupsi, Begini Pesan Erick Thohir (2024/04/02)",negatif
+Kasus Korupsi Timah Rugikan Negara Rp271 Triliun? Ini Kata Dirut TINS (2024/04/02),negatif
+OJK Klarifikasi Soal Kasus Asuransi Jiwa Bumi Asih Jaya (2024/04/02),netral
+"Lebaran Panen Cuan, Simak Tips Kelola THR dari OJK (2024/04/02)",netral
+"Perkuat Sektor Keuangan, Ini Arah Kebijakan OJK di Awal Tahun 2024 (2024/04/02)",netral
+"Laba Harita Nickel (NCKL) Naik 20% Jadi Rp5,62 T, Ini Penopangnya (2024/04/02)",positif
+Ini Alasan OJK Minta Banding Putusan PTUN Michael Steven Kresna Life (2024/04/02),netral
+"OJK Setop Restrukturisasi Kredit Covid-19, BNI Bilang Gini (2024/04/02)",netral
+"Isu Sidang MK Hingga The Fed, IHSG & Rupiah Terancam Rontok Lagi? (2024/04/02)",negatif
+"Eximbank (LPEI) Rugi Rp 18,11 T di 2023, Ini Penyebabnya (2024/04/02)",negatif
+"IHSG Tiba-Tiba Balik Arah ke Zona Hijau, 4 Saham Ini Jadi Penopangnya (2024/04/02)",positif
+BNI Ungkap Perjalanan Transformasi Selama 4 Tahun Terakhir (2024/04/02),netral
+"Video: Harga Saham TLKM Loyo Tapi Valuasi Murah, Menarik Diakumulasi? (2024/04/02)",netral
+"Gubernur BI Lantik 6 Pimpinan Baru, Ini Daftarnya (2024/04/02)",netral
+"Sukses Terbitkan Global Bond US$ 500 juta, BNI Ungkap Strategi Ini (2024/04/02)",negatif
+Potret Rolls Royce Harvey Moeis Kado Buat Sandra Dewi (2024/04/02),netral
+"BEI Bakal Lelang Saham, Catat Tanggal dan Syarat Jadi Peserta (2024/04/02)",netral
+Bos OJK Blak-Blakan Soal Dampak Penurunan Suku Bunga AS (2024/04/02),negatif
+"Genjot ROE Hingga 28% di 2028, BNI Siapkan Strategi Ini (2024/04/02)",netral
+"PT Timah (TINS) Rugi Rp 450 Miliar di 2023, Dirut Ungkap Alasannya (2024/04/02)",negatif
+"Disambut Antusias, Ini Alasan Global Bond BNI Diburu Investor (2024/04/02)",positif
+"Sidang MK Masih Digelar Hari Ini, Rupiah Terkapar ke Rp15.895/US$ (2024/04/02)",negatif
+"Video: OJK Bakal Setop Restrukturisasi Kredit, Multifinance Siap? (2024/04/02)",netral
+"OJK Ingatkan Multifinance, Ada Tren Nunggak Kredit Setelah Lebaran (2024/04/02)",negatif
+Bos OJK Buka Suara Soal KB Kookmin Bank Mau Caplok 2 Multifinance (2024/04/02),netral
+"Soal Kisruh Aturan Full Call Auction di Bursa, Ini Respons Bos OJK (2024/04/02)",netral
+"Saham LQ45 Masih Pada Murah, Mana yang Layak Dikoleksi? (2024/04/02)",netral
+Ini Alasan OJK Cabut Program Restrukturisasi Kredit Covid-19 (2024/04/02),netral
+"Kantor di IKN Selesai Agustus 2026, Bos OJK Pindah Mulai Juni 2024 (2024/04/02)",netral
+Direktur UUS Bank Permata Herwin Bustaman Resign (2024/04/02),netral
+BNI Buka-bukaan Soal Manfaat & Rencana Penggunaan Global Bond (2024/04/02),netral
+Laba Emiten Tommy Soeharto Naik 16% Sepanjang 2023 Jadi Rp 200 M (2024/04/02),positif
+"Rupiah Terpuruk, Kelas Menengah RI Bisa Makin Menderita! (2024/04/02)",negatif
+"Aset Kripto RI Juara ke-7 di Dunia, Nilainya Segini (2024/04/02)",positif
+2.600 Entitas Keuangan Ilegal Ditutup OJK (2024/04/02),netral
+"Di IKN, WIKA Gelar Pasar Sembako Murah Sediakan saat Safari Ramadan (2024/04/02)",netral
+"Program Restrukturisasi Berakhir, OJK Kasih Pesan ke Bankir (2024/04/02)",netral
+"Terbitkan Global Bond US$ 500 juta, BNI Diversifikasi Sumber Pendanaan (2024/04/02)",positif
+Aset Industri Asuransi-Dapen RI Tumbuh 2% Jadi Rp 1.130 Triliun (2024/04/02),positif
+"Investor Kripto RI Capai 19 Juta, Transaksinya Rp 33,69 T (2024/04/02)",positif
+"OJK Sanksi Pelanggar Pasar Modal, Denda Miliaran & Cabut Izin Usaha (2024/04/02)",negatif
+"Simpanan Warga RI per Februari 2024 Naik 5,7% (2024/04/02)",positif
+"3 Bulan, Sudah 89 Lembaga Keuangan di Sanksi OJK (2024/04/02)",negatif
+"Bukit Asam (PTBA) Jual Saham Treasuri Ke BNI Sekuritas, Raup Rp 80 M (2024/04/02)",positif
+"Risiko Turun, Penyaluran Kredit Bank di Februari 2024 Naik 11,28% (2024/04/02)",positif
+"123 Emiten Siap Melantai di Bursa Efek Indonesia, Cari Dana Rp 59,68 T (2024/04/02)",positif
+"Baru 3 Bulan, Asing Sudah Tanam Rp 28 Triliun di Pasar Modal RI (2024/04/02)",positif
+"Video: IHSG & Rupiah Kompak ""Memerah"" Jelang Libur Lebaran, Ada Apa? (2024/04/02)",negatif
+"OJK: Jasa Keuangan Stabil, Kondisi Global di Atas Ekspektasi (2024/04/02)",positif
+"The Fed Bakal Turunkan Suku Bunga, Bos OJK Buka-bukaan Efeknya (2024/04/02)",netral
+"Punya 847 Ribu Nasabah Ultra Mikro, Bos PNM Gercep Kebut Ini (2024/04/02)",positif
+"ITMG Setujui Pergantian Pengurus, Ini Susunan Terbarunya (2024/04/02)",netral
+Catat! Jadwal Lengkap Operasional BCA Saat Lebaran 2024 (2024/04/02),netral
+"Fokus Penyehatan, WIKA Ungkap Transformasi Bisnis Jadi Langkah Penting (2024/04/02)",netral
+"Adira Finance Tebar Dividen Rp 972 M, Catat Jadwal Pembagiannya (2024/04/02)",positif
+Erick Thohir Bangga BRI Masuk Jajaran Merek Bernilai di Dunia (2024/04/02),positif
+"Indo Tambangraya Megah (ITMG) Sepakat Tebar Dividen Rp5,18 T (2024/04/02)",positif
+"Catat, Ini Jadwal Libur Perdagangan Bursa Selama Lebaran (2024/04/02)",netral
+Kejagung Sita Mobil Rolls Royce & Mini Cooper Suami Sandra Dewi! (2024/04/02),netral
+"OJK Setop Restrukturisasi Kredit Covid-19, Ini Kata Bankir (2024/04/02)",netral
+Ini Kata Robert Bonosusatya Usai Diperiksa 13 Jam oleh Jaksa (2024/04/02),netral
+"Korupsi Timah Harvey Moeis Rugikan Negara Rp 271 T, PPATK Buka Suara (2024/04/02)",negatif
+"Pinjaman di Jakarta Turun, Ini 10 Provinsi Peminjam Pinjol Tertinggi (2024/04/02)",netral
+"Eks Bos Bursa Ngaku Beli Saham TLKM, Masuk di Harga Segini (2024/04/02)",netral
+"Sengketa Pilpres Bikin Dolar Nyaris Rp16.000, BI Langsung Intervensi! (2024/04/02)",negatif
+"Jadi Saksi Kasus Timah Harvey Moeis, Ini Profil Robert Bonosusatya (2024/04/02)",netral
+Duh! Kredit Macet Fintech Lending Tumbuh Lebih Tinggi dari Pinjaman (2024/04/02),negatif
+"Bakal Gabung Ke Injouney, Bos Garuda Indonesia Bocorin Waktunya (2024/04/02)",netral
+"IHSG Loyo Lagi ke 7.100-an, 5 Saham Big Cap Ini Jadi Penekannya (2024/04/02)",negatif
+"10 Negara dengan Orang Kaya Terbanyak, Nomor 1 Gak Terduga (2024/04/02)",netral
+"Dunia Punya 3.279 Konglomerat, Seperempatnya Ada di China (2024/04/02)",netral
+"Bakal Ada Bank Syariah Besar Baru, BSI: Itu Sparring Partner (2024/04/02)",netral
+"Rupiah Terus Jatuh, Harga Jual Dolar AS di Bank Sudah Rp16.000 (2024/04/02)",negatif
+Erick Thohir Rombak Direksi dan Komisaris Adhi Karya (ADHI) (2024/04/02),netral
+"Rupiah Kian Melemah, Ini yang Bisa Kita Lakukan (2024/04/02)",netral
+"Konflik di Timur Tengah Makin Panas, Harga Minyak Dunia 'Mendidih' (2024/04/02)",negatif
+"Rupiah Makin Merana, Hari Ini Dibuka Melemah ke Rp 15.950/US$ (2024/04/02)",negatif
+"Saham Onix Capital (OCAP) Digembok Bursa, Ini Penyebabnya (2024/04/02)",negatif
+"Pegang Dolar dan Emas Sejak Awal Tahun, Lebih Cuan Mana? (2024/04/02)",netral
+"Bursa Asia Dibuka Cerah Bergairah, IHSG Bakal Ikutan? (2024/04/02)",positif
+"Hasil RUPST Maybank (BNII), Dirut Diganti hingga Bagi Dividen Rp 785 M (2024/04/02)",positif
+"Ada Penarikan Dividen-Persiapan Lebaran, Rupiah Masih Potensi Melemah (2024/04/02)",netral
+"Terbitkan Global Bond, Bisnis BNI Bisa Tumbuh Makin Kencang di 2024 (2024/04/02)",positif
+Nih Senjata BI Amankan Rupiah dari Panasnya Sengketa Pilpres (2024/04/02),netral
+Jaksa Sita Rolls Royce Kado Harvey Moeis untuk Sandra Dewi (2024/04/02),netral
+"IHSG Ambles 1,15%, Asing Masih Incar Saham Ini (2024/04/02)",negatif
+Update dan Fakta Terbaru! Rumah Harvey Moeis Digeledah Jaksa (2024/04/02),netral
+Rupiah Longsor ke Rp 15.900! BI dan Ekonom Buka Suara (2024/04/02),negatif
+"IHSG Sempat Terjun ke 7.100, Asing Terciduk Jual Saham Ini (2024/04/02)",negatif
+Saksi Penting Korupsi Harvey Moeis hingga Nasib Sandra Dewi Terungkap (2024/04/02),netral
+"6 Kebiasaan Ini Bikin Orang Susah Kaya, Ada di Kamu? (2024/04/02)",netral
+"Data Lapangan Kerja AS Panas Lagi, Wall Street Dibuka Loyo (2024/04/03)",negatif
+"Video: Sambut Mudik Lebaran, Begini Prospek Saham Transportasi & Ritel (2024/04/03)",netral
+"Kasus Timah, Kejagung Periksa 174 Saksi-Telusuri Harta Harvey Moeis Cs (2024/04/03)",negatif
+"Video: Baru Rebound Sehari, IHSG Ambles Nyaris 1% (2024/04/03)",negatif
+"Kuasai 34% Saham Vale, MIND ID ""Cuma"" Dapat Jatah 2 Direksi (2024/04/03)",netral
+5 Fakta Kasus Dugaan Korupsi Timah Helena Lim & Harvey Moeis (2024/04/03),netral
+"CIMB Niaga (BNGA) Bagikan Dividen Rp3,08 T dan Angkat Komisaris Baru (2024/04/03)",positif
+IHSG Ambrol Nyaris 1% ke Level 7100! Ini Penyebabnya (2024/04/03),negatif
+"Divestasi Vale Rampung Juli, Ini Perubahan Jatah Komisaris & Direksi (2024/04/03)",netral
+IHSG Loyo Lagi! Jatuh Nyaris 1% (2024/04/03),negatif
+OJK: Restrukturisasi Kredit Multifinance Diperpanjang ke 17 April 2024 (2024/04/03),netral
+Intervensi BI Saat Rupiah Dekati Rp 16.000/USD & Menanti Kabar The Fed (2024/04/03),negatif
+Perusahaan Kripto di Thailand Mau IPO (2024/04/03),netral
+"AS dan Data Inflasi RI Bikin Takut Pasar, Rupiah Turun ke Rp15.915 (2024/04/03)",positif
+"Amankan Rupiah dari Amukan Dolar AS, BI Harus Lakukan Ini! (2024/04/03)",netral
+"Fenomena di RI, Banyak Anak Muda Pengangguran Nunggak Pinjol (2024/04/03)",negatif
+Top! QRIS Bakal Bisa Dipakai di Brunei & Laos (2024/04/03),netral
+"Laba Tambang Emas Bakrie-Salim (BRMS) Naik 1,93% Jadi US$13,91 Juta (2024/04/03)",positif
+"Video:1,4 Juta Kursi Belum Cukup, Garuda Ajukan Penambahan Penerbangan (2024/04/03)",netral
+"Video: Harga Emas Tembus Rekor USD 2.300/Oz, Ini Penyebabnya! (2024/04/03)",netral
+"Lewat Global Bond, BNI Diversifikasi Sumber Pendanaan (2024/04/03)",positif
+"Laba Bank Mayapada (MAYA) 2023 Rp 22,1 M, Ini Pendorongnya (2024/04/03)",positif
+Efek Dolar Hampir Rp16.000: Subsidi Melonjak atau Harga BBM Naik! (2024/04/03),negatif
+"Terkuak, Ini Penyebab Laba Asuransi Tugu (TUGU) Melonjak 281% (2024/04/03)",positif
+"Rupiah Loyo, Beli Barang Impor Bakal Makin Mahal! (2024/04/03)",negatif
+"Maybank Tebar Dividen Rp 785 M, Catat jadwal Pembagiannya (2024/04/03)",positif
+Angkasa Pura: Hampir 8 Juta Orang Mudik Pakai Pesawat (2024/04/03),netral
+"IHSG Lemes Lagi, 5 Saham Big Cap Ini Biang Keladinya (2024/04/03)",negatif
+"Diperiksa di Kasus Timah, Intip Bisnis Robert Bonosusatyo (2024/04/03)",netral
+"Sah! Emiten Prajogo Pangestu (BREN) Caplok 2 Perusahaan Rp1,66 T (2024/04/03)",netral
+Perjalanan Positif Transformasi Bisnis BNI 4 Tahun Terakhir (2024/04/03),positif
+"Dolar AS Nyaris Tembus Rp16.000, Cicilan Utang RI Bisa Bengkak (2024/04/03)",negatif
+"Beban Membengkak, Bank Aladin Rugi Rp 226,74 M (2024/04/03)",negatif
+"Jelang Lebaran, BRI Imbau Nasabah Waspada Modus Penipuan Online (2024/04/03)",netral
+Bos Adhi Karya (ADHI) Buka Suara Soal Perintah Merger (2024/04/03),netral
+"Tebar Kebaikan Ramadan, Bank Mandiri & BUMN Gelar Pasar Murah (2024/04/03)",netral
+"Jual Aset Mandek, Pengembalian Dana Seret, Bumiputera Bisa Kena Sanksi (2024/04/03)",negatif
+Pantas IHSG Ambruk! Seminggu Dana Asing Keluar Rp 5 T dari Saham RI (2024/04/03),negatif
+Bos OJK Buka Suara Kapan Kripto Mulai Diawasi Mereka (2024/04/03),netral
+"Bos Danareksa Bicara Nasib 15 BUMN Sakit, Apa Katanya? (2024/04/03)",negatif
+"Bank Ke-8 yang Bangkrut Tahun 2024, LPS akan Lakukan Ini (2024/04/03)",negatif
+"Pemerintah Punya Utang Rp10,4 T ke Pupuk Indonesia, Jokowi Bilang Gini (2024/04/03)",netral
+"Menabung Bukan Pangkal Kaya, Ini Cara Ubah Uang Jutaan Jadi Miliiaran (2024/04/03)",netral
+Video: Ini Yang Bikin IHSG Melemah & Rupiah Keok Lawan Dolar AS (2024/04/03),negatif
+"5 Saham Bank Raksasa Ini Diskon Gede-Gedean, Saatnya Serok? (2024/04/03)",positif
+Emiten Bioskop XXI (CNMA) Ganti Dirut dan Tebar Dividen 97% dari Laba (2024/04/03),positif
+"Sejak Kasus Korupsi Mencuat, Saham Timah (TINS) Udah Terbang 57% (2024/04/03)",positif
+"Bos LPEI Jelaskan Soal Kronologi Dugaan Fraud Rp 2,5 T (2024/04/03)",negatif
+"Bank BJB (BJBR) Tebar Dividen Rp 1 Triliun, Setara 58,27% Laba 2023 (2024/04/03)",positif
+Bisnis Wealth Bank Mandiri Sabet Dua Penghargaan Euromoney (2024/04/03),positif
+"Konsulat Iran Dibom Israel, Harga Minyak Terus Merangkak Naik (2024/04/03)",negatif
+"Rupiah Makin Suram, Dolar Sudah Tembus Rp 15.910 (2024/04/03)",negatif
+"Dolar AS Ngamuk, Kripto Kompakan Anjlok (2024/04/03)",negatif
+"IHSG Rebound Jelang Penutupan, Asing Ternyata Borong Saham Ini (2024/04/03)",positif
+"Waspada Bursa Asia Rontok! Korea Selatan Ambruk 1,47% (2024/04/03)",negatif
+"Menjelang Pidato Powell, Rupiah Masih Risiko Tertekan (2024/04/03)",negatif
+"Potret Rolls Royce Harvey Moeis, ""Tanda Cinta"" Buat Sandra Dewi (2024/04/03)",netral
+"Asing Net Sell Rp 1,77 T, Terciduk Jual Saham Ini (2024/04/03)",negatif
+Dugaan Harvey Moeis Suami Sandra Dewi Cuci Uang! Ini Kata PPATK (2024/04/03),negatif
+"Pemilik Tak Bertanggung Jawab, OJK Cabut Izin Usaha Bank Ini (2024/04/03)",negatif
+"Profil Robert Bonosusatya, Terseret Kasus Timah Suami Sandra Dewi (2024/04/03)",negatif
+Waspada! OJK Beberkan Modus Penipuan yang Marak Saat Bulan Puasa (2024/04/03),netral
+"Heboh Kesangkut Kasus Korupsi, Ternyata Segini Kekayaan PT Timah (2024/04/03)",negatif
+"Sosok Robert Bonosusatya, Terseret Kasus Timah Harvey Moeis (2024/04/03)",negatif
+"Video: Dolar Menguat, Begini Dampaknya ke Bisnis Perawatan Pesawat (2024/04/04)",netral
+"Data Tenaga Kerja Mulai Mendingin, Wall Street Berhasil Bangkit (2024/04/04)",positif
+Mantap! Waskita Karya (WSKT) Kebut Pengerjaan 7 Proyek di IKN (2024/04/04),positif
+OJK: Literasi Keuangan Syariah Warga RI Tumbuh 30% di 2023 (2024/04/04),positif
+WSKT Selesaikan Proyek Jalan Kwatisore-Muri Lebih Cepat (2024/04/04),positif
+40 BPR/BPR Syariah Siap Merger di Kuartal II-2024 (2024/04/04),netral
+Bos OJK Minta Ini ke Manajemen Paylater Ini (2024/04/04),netral
+"Jelang RUPST, Ini Bocoran Dividen yang Bakal Ditebar TUGU (2024/04/04)",positif
+"Sulit Bayar Utang, Indofarma (INAF) Resmi PKPU (2024/04/04)",negatif
+"Wijaya Karya (WIKA) Mau Rights Issue, Incar Dana Rp 9,2 Triliun (2024/04/04)",positif
+"Targetkan Asuransi PAYDI Naik 10%, Ini Langkah MSIG Life (2024/04/04)",positif
+"Avian (AVIA) Tebar Dividen Rp 1,36 T, Investor Bakal Dapat Segini (2024/04/04)",positif
+POJK SBDK Bakal Efektif Turunkan Suku Bunga? Ini Kata OJK (2024/04/04),netral
+Tangan Kanan Erick Thohir Ungkap Langkah Strategis BUMN di 2024 (2024/04/04),netral
+"Video: Momen Lebaran, Bisnis Bengkel Pesawat Ikut Ketiban Berkah? (2024/04/04)",netral
+"Blibli-Tiket (BELI) Bukukan Rugi Rp 3,64 T di 2023, Ekuitas Anjlok 25% (2024/04/04)",positif
+IHSG Berhasil Rebound Balik ke Level 7.200-an Ditopang 5 Saham Ini (2024/04/04),positif
+"BPR Jatuh Bertambah Jadi 9, Terbaru BPR Bali Artha Anugrah (2024/04/04)",netral
+"Investor Jangan Impulsif, Kripto Cenderung Volatil Saat Lebaran (2024/04/04)",netral
+"CIMB Niaga (BNGA) Tebar Dividen Rp 3,08 T, Ini Jadwal Cum Datenya (2024/04/04)",positif
+"Sah! Indomobil (IMAS) Bawa Merek China ke RI, Mau Jualan Mobil Listrik (2024/04/04)",netral
+"Bank Mayapada (MAYA) Perkuat Modal, OJK Bilang Gini (2024/04/04)",positif
+"Menguat Tajam, Rupiah Pukul Dolar ke Rp15.890 (2024/04/04)",positif
+"Jelang Spin Off 32 Asuransi Syariah, OJK Pantau Permodalan (2024/04/04)",positif
+"Ini Update Baru Gagal Bayar Investree, iGrow, Tanifund & Modal Rakyat (2024/04/04)",negatif
+Syarat dan Lokasi Penukaran Uang Melalui Kas Keliling BI (2024/04/04),netral
+WIKA Bangun Pusat Pelatihan Atlet Jelang Olimpiade di Cibubur (2024/04/04),positif
+"Robert Bonosusatyo Kembali Datangi Kejagung, Ini Penjelasannya! (2024/04/04)",netral
+Ini Penyebab IHSG Berhasil Rebound & Sempat Melesat 1% (2024/04/04),positif
+"Kejagung Periksa 140 Lebih Saksi Selain Sandra Dewi, Ada Artis Lain? (2024/04/04)",netral
+Ini Peran Sandra Dewi Dalam Dugaan Korupsi Timah yang Jerat Suaminya (2024/04/04),negatif
+Ini Daftar Saham-saham yang Berada di bawah 10 Perak (2024/04/04),netral
+Kejagung: Harvey Moeis Tersangka TPPU Kasus Korupsi Timah (2024/04/04),negatif
+"Mantap! BRI Sukses Jual SBN SR020 Tembus Rp 1,5 T (2024/04/04)",positif
+Alasan Kejagung Periksa Sandra Dewi di Kasus Korupsi PT Timah (2024/04/04),negatif
+Kejagung Buka-bukaan Soal Rekening Sandra Dewi yang Diblokir (2024/04/04),netral
+Fasilitas Kredit Bisnis Telco Duo Hartono dari BTPN Naik Triliunan (2024/04/04),positif
+"Sempat Melesat 1% Lebih, IHSG Tutup Sesi I Dengan Penuh Gairah (2024/04/04)",positif
+GOTO Caplok Saham Winato Kartono di Perusahaan Pembiayaan Ini (2024/04/04),positif
+Bank BJB (BJBR) Angkat Komisaris Utama dan 2 Direktur Baru (2024/04/04),netral
+Video: Jurus Ritel Modern Raup Berkah Cuan Saat Ramadan & Lebaran 2024 (2024/04/04),netral
+"3 Tahun Meroket 421%, Lo Kheng Hong Terus Tambah Porsi di Saham ABMM (2024/04/04)",positif
+"LPEI Dapat Kucuran PMN Rp10 T, Bakal Dipakai Buat Ini (2024/04/04)",positif
+"Suami Sandra Dewi Simpan Rp 76 M di Rumah, PPATK: Banyak Modusnya (2024/04/04)",netral
+"Ada 7 Asuransi Bermasalah Masuk Pengawasan Khusus, Ini Penyebabnya (2024/04/04)",negatif
+"Siapkan Duit Rp45 T, Ini Jadwal Operasional BSI Selama Libur Lebaran (2024/04/04)",netral
+"Gandeng Indosat, Raksasa AS Guyur Rp 3 T Bangun Pusat AI di Solo (2024/04/04)",positif
+"Emiten Sari Roti (ROTI) Salim Bagi Dividen Rp 500 M, Ini Jadwalnya (2024/04/04)",positif
+"Bakal Banyak Pesaing Baru, Bos Bank Mega Syariah Buka Suara (2024/04/04)",netral
+"Sambangi Kejagung Buntut Kasus Timah, Sandra Dewi: Doain Ya (2024/04/04)",negatif
+"Terungkap, BSI Siap Konsolidasi dengan Bank Syariah Lain (2024/04/04)",netral
+Update Terbaru Kronologi Kasus Timah Suami Sandra Dewi Harvey Moeis (2024/04/04),netral
+"PermataBank Sepakat Tebar Dividen Rp904,53 M dan Angkat Direktur Baru (2024/04/04)",positif
+"5 Saham Bank Raksasa 'Ngamuk', IHSG Langsung Hijau (2024/04/04)",positif
+"IHSG Berhasil Bangkit, 7 saham Big Cap Ini yang Gendongin (2024/04/04)",positif
+IHSG Bangkit Ke Level 7.200-an Saat Rupiah Masih 'Betah' Di Zona Merah (2024/04/04),positif
+"Jadi Saksi Kasus Korupsi Timah, Sandra Dewi Tiba di Kejagung (2024/04/04)",netral
+"Harga Minyak WTI Tembus US$ 85,67, Rekor Tertinggi Sejak Oktober 2023 (2024/04/04)",positif
+BPKH Beri Kabar Terbaru Akuisisi Bank Muamalat oleh BTN Syariah (2024/04/04),positif
+"Soal Karyawan Protes Belum Terima Gaji & THR, Ini Kata PTDI (2024/04/04)",netral
+"Lagi-Lagi Melemah, Rupiah Sudah Capai Rp 15.925/US$ (2024/04/04)",negatif
+"Bursa Asia Dibuka Bergairah, Kabar Baik Buat IHSG Nih (2024/04/04)",positif
+"Dua Hari Jelang Libur, Waspada Rupiah Rawan Ambrol ke Rp16.000/US$ (2024/04/04)",negatif
+"Bersih-Bersih Aset Bermasalah, Eximbank (LPEI) Target NPF di Bawah 3% (2024/04/04)",positif
+"Net Sell Asing Rp 2,13 T, Saham Ini Jadi Sasaran (2024/04/04)",negatif
+"Update Terbaru Kasus Timah, Jaksa Beri Sinyal Periksa Sandra Dewi (2024/04/04)",netral
+"Aturan Laporan Perubahan Kepemilikan Saham, Maksimal Jadi 5 Hari (2024/04/04)",netral
+Ini Asal Kerugian Negara Rp 271 T dalam Kasus Timah Suami Sandra Dewi (2024/04/04),negatif
+"Data NFP Panas Lagi, Tapi Wall Street Tetap Dibuka Menghijau (2024/04/05)",positif
+"Dana Asing Banjiri Pasar Saham Asia, 3 Bulan Tembus Rp 294 T (2024/04/05)",positif
+Direktur Sido Muncul (SIDO) Leonard Mundur dari Kursi Direksi (2024/04/05),netral
+"Mau IPO, Remala Abadi (DATA) Tawarkan Harga Saham Rp188 - Rp208/Saham (2024/04/05)",positif
+Sentimen Ini Sukses Bikin IHSG Menghijau Sambut Libur Panjang Lebaran (2024/04/05),positif
+Ekspansi Operator & Belanja Infrastruktur Buat Industri Menara Cerah (2024/04/05),positif
+"OJK Melakukan Pertemuan dengan Pemain Paylater, Ini yang Dibahas (2024/04/05)",netral
+"Video: Fenomena Pabrik Tutup Saat PMI Manufaktur Cetak Rekor, Kenapa? (2024/04/05)",netral
+"Sering Kontroversi, Robert Kiyosaki Tidak Lulus Kuliah & Gagal Bisnis (2024/04/05)",negatif
+Video: Sri Mulyani Cs Hadiri Sidang MK Hingga IHSG & Rupiah Menguat (2024/04/05),positif
+Kalbe Farma (KLBF) Bakal Buyback Saham 625 Juta Lembar (2024/04/05),positif
+"Video: Ekspansi Bisnis Data Center AREA Pasca IPO, Investor Wajib Tau! (2024/04/05)",netral
+"IHSG Sumringah Jelang Libur Panjang Lebaran, 5 Saham Ini Jadi Penopang (2024/04/05)",positif
+"Sandiaga Uno Komentari Sinergi TikTok dan Tokopedia, Ini Katanya (2024/04/05)",positif
+Kesiapan BRI Penuhi Kebutuhan Transaksi Keuanga di Libur Lebaran (2024/04/05),netral
+"Siap-siap Limit Pinjol Bisa Tembus Lebih dari Rp 2 M, Kamu Tertarik? (2024/04/05)",netral
+"Laris Manis Di Lebaran, Transaksi Digital BRImo Ditargetkan Naik 60% (2024/04/05)",positif
+"Data BI & Gugatan ke MK Tak Bikin Gentar, Rupiah Kuat di Rp15.840/US$ (2024/04/05)",positif
+"Wamen BUMN Ungkap Kisaran Dividen Telkom, Segini Nilainya (2024/04/05)",positif
+BRI Optimis Volume dan Transaksi BRImo Tumbuh 60% di Periode Lebaran (2024/04/05),positif
+Wamen BUMN Buka Suara Soal Penurunan Harga Saham Bank BUMN (2024/04/05),positif
+Simak Persiapan BRI Penuhi Kebutuhan Uang Nasabah di Periode Lebaran (2024/04/05),netral
+"Dalam 4 Bulan Ada 9 Bank Bangkrut, Ini Daftarnya (2024/04/05)",negatif
+"Umur 20-an, Diam-Diam Harta Anak Haji Isam Lenyap Rp4,82 T di Aset Ini (2024/04/05)",negatif
+"ITMG Bakal Bagi Sisa Dividen Rp 1.747 per Saham, Cek Jadwalnya (2024/04/05)",positif
+"Direktur Bank Wings Group (MASB) Mengundurkan Diri, Ada Apa? (2024/04/05)",netral
+Industri Perdagangan Komoditas Cetak Rekor Laba Rp 1.650 T di 2023 (2024/04/05),positif
+"Info Terbaru, MIND ID dan Pelindo Dikabarkan Mau IPO (2024/04/05)",positif
+"BUMN Berangkatkan 100 Ribu Pemudik Gratis, Naik 40% dari Tahun Lalu (2024/04/05)",positif
+"Tesla & BYD Bawa Kabar Buruk, 'Kiamat' Mobil Listrik Akan Terjadi? (2024/04/05)",negatif
+"Kinerja BUMN Tambang Terkoreksi, Ini Kata Anak Buah Erick Thohir (2024/04/05)",negatif
+Info Terbaru! Pertamina Shipping (PIS) Berencana IPO di 2025 (2024/04/05),netral
+Video: Bos PIS Ungkap Tantangan Bisnis Kapal Logistik Global (2024/04/05),netral
+"Jadwal Operasional BCA, Mandiri, BNI, dan BSI Selama Libur Lebaran (2024/04/05)",netral
+"Diserang Fans K-Pop, Adaro Buka Suara Soal Kerja Sama dengan Hyundai (2024/04/05)",netral
+"Di Tengah Sidang Sengketa Pilpres, IHSG Rebound Digendong Saham Ini (2024/04/05)",positif
+"Tagihan Utang & Rupiah Alasan Cadangan Devisa RI Anjlok US$3,6 M (2024/04/05)",negatif
+BEI Bakal Sanksi Perusahaan yang Telat Kasih Tanggapan (2024/04/05),negatif
+"Cadangan Devisa RI Maret US$140,4 M, Anjlok US$3,6 M (2024/04/05)",negatif
+Begini Kinerja PT TImah (TINS) Usai Kejagung Ungkap Skandal Korupsi (2024/04/05),negatif
+"Sidang Sengketa Pilpres di MK, IHSG Balik Arah Menguat 0,4% (2024/04/05)",positif
+"Harga Minyak Belum Mau Rehat Cetak Rekor, Brent Sudah di US$ 90-an (2024/04/05)",netral
+"Emiten RI Ini Temukan Ladang Emas Baru, di Sini Lokasinya (2024/04/05)",positif
+Video: Bos PIS Beberkan Strategi Cetak Kinerja Moncer di 2023 (2024/04/05),positif
+"4 Menteri Jadi Saksi di Sidang Sengketa Pilpres MK, IHSG Longsor (2024/04/05)",negatif
+"4 Menteri Jadi Saksi di Sidang MK, Rupiah Stagnan di Rp15.890/US$ (2024/04/05)",negatif
+Stafsus Erick Thohir Ungkap Kehebatan Kejagung Bongkar Korupsi Timah (2024/04/05),netral
+"Fintech Lending Tak Bisa Asal Write Off Tagihan Macet, Ini Syaratnya (2024/04/05)",netral
+"Pejabat The Fed Bikin Pening Pasar Lagi, Bursa Asia Dibuka Kebakaran (2024/04/05)",negatif
+"Raja Chip AS Bangun Pusat AI di Solo Rp 3 T, Gibran: Gas! (2024/04/05)",positif
+Sandra Dewi Diperiksa hingga Luhut Buka Suara Soal Kasus Timah (2024/04/05),negatif
+"Harga Saham Anjlok 46,2%, BEI Gembok Saham Digital Mediatama (DMMX) (2024/04/05)",negatif
+"IHSG Naik Jelang Libur Lebaran, Asing ""Bongkar Muatan"" Jual Saham Ini (2024/04/05)",positif
+"Pertama dalam Sejarah 4 Menteri akan Dicecar MK, Gimana Nasib Rupiah? (2024/04/05)",negatif
+Anak Buah Erick Thohir Blak-blakan soal Celah Korupsi di PT Timah (2024/04/05),negatif
+"IHSG Bangkit, Asing Serbu Saham Ini (2024/04/05)",positif
+"Setelah Sandra Dewi Diperiksa, Ini Daftar 16 Tersangka Kasus Timah (2024/04/05)",negatif
+"Begini Strategi Investasi Ala Nabi Muhammad SAW, Patut Ditiru (2024/04/05)",positif
+Segini Uang Pensiun Jokowi Usai 10 Tahun Jadi Presiden RI (2024/04/06),netral
+"Terkuak, Ini Ketakutan Terbesar Jokowi di Ujung Masa Jabatan (2024/04/06)",negatif
+"Daftar Kekayaan 7 Presiden Indonesia, Siapa yang Paling Miskin? (2024/04/06)",netral
+"Emas Tak Bosan Cetak Rekor, Sepekan Naik 4,35% Menembus Level US$2.300 (2024/04/06)",positif
+Gaji Mantan CEO Boeing Ternyata Naik 45% Tahun Lalu Jadi Rp525 M (2024/04/06),netral
+"Sempat Ambruk Dalam, IHSG Pekan Ini Hanya Terkoreksi Tipis (2024/04/06)",positif
+"Kasus Korupsi Timah Bikin Rugi Rp271 T, Ini Asal Usal & Rinciannya (2024/04/06)",negatif
+"Pekan Penuh Gejolak, Rupiah Malah Perkasa Lawan Dolar AS (2024/04/06)",positif
+"Terkuak, Ini Gurita Bisnis Harvey Moeis Tersangka Kasus Korupsi Timah (2024/04/06)",negatif
+"Video: Pilpres 1 Putaran, Ini Harapan Pengusaha Ritel Ke Prabowo (2024/04/06)",netral
+"Terusir dari Indonesia, Sosok Ini Malah Jadi Raja Hotel Dunia (2024/04/06)",netral
+Rahasia Emas 57 Ton Milik Soekarno di Swiss Akhirnya Terkuak (2024/04/06),netral
+"Sempat Terbitkan Pecahan 1 Triliun, Zimbabwe Kenalkan Mata Uang Baru (2024/04/06)",netral
+"Suami Sandra Dewi Timbun Rp 76 M di Rumah, PPATK: Banyak Modusnya (2024/04/06)",negatif
+Jangan Kaget! Ini 3 Orang Muslim Terkaya di Dunia (2024/04/07),netral
+"Indofarma Resmi Ajukan PKPU, Tapi Gaji Karyawan Belum Dibayar! (2024/04/07)",negatif
+"Video: Revisi PP 96/2021, Negara & Penambang Sama-sama Diuntungkan? (2024/04/07)",netral
+Ini Gurita Bisnis dan Harta Kekayaan Harvey Moeis Suami Sandra Dewi (2024/04/07),netral
+"Video: Angkut Pemudik 2024, Garuda Pastikan Harga Tiket Tak Lebihi TBA (2024/04/07)",positif
+Indofood (ICBP) Milik Anthoni Salim Jualan Indomie Rp50 T Tahun 2023 (2024/04/07),positif
+Kerajaan Bisnis Salim Roboh Usai Berjaya 3 Dekade (2024/04/07),negatif
+"Baru Umur 20-an, Harta Anak Haji Isam Lenyap Rp 4,82 T karena Ini (2024/04/07)",negatif
+"Jangan Kaget, Ini 3 Orang Muslim Terkaya di Dunia (2024/04/07)",netral
+"""Diusir"" Sukarno dari RI, Orang Ini Malah Jadi Raja Hotel Mewah Dunia (2024/04/07)",netral
+"Misteri Uang Rp 476 Miliar Mendadak Hilang Tanpa Jejak, Ngeri! (2024/04/07)",negatif
+"Jelang Lebaran Timur Tengah Tegang, Harga Minyak Mentah AS Merosot (2024/04/08)",negatif
+"Investor Menanti Rilis Data Inflasi, Wall Street Dibuka Sedikit Galau (2024/04/08)",netral
+"Tarik Lebih Banyak Investor Asing Pasca Pemilu, RI Butuh ""Booster"" Ini (2024/04/08)",netral
+Korban Kecelakaan Maut Km 58 Tol Japek Dapat Santunan Rp50 Juta/ Orang (2024/04/08),netral
+Garuda Indonesia Jadi Maskapai Penyedia Wifi Terbaik di Dunia (2024/04/08),positif
+"Mata Uang Asia Terkapar Lawan Dolar AS, Untung Rupiah Libur (2024/04/08)",netral
+BRI hingga BCA Pasok Uang Tunai Rp 245 T Buat Kebutuhan Lebaran (2024/04/08),netral
+"Daftar Bunga Deposito Bank Tertinggi, Bisa untuk Simpan THR (2024/04/08)",netral
+"Ekonomi AS Kena Bahaya, Sinyal Suku Bunga Turun Redup (2024/04/08)",negatif
+"Jika Bunga Acuan The Fed Tak Dipangkas, Nasib Rupiah 2024 Gimana? (2024/04/08)",negatif
+"Cek Jadwal Operasional BCA, Bank Mandiri, BNI, BRI, BSI Selama Lebaran (2024/04/08)",netral
+"Pelaku Pasar Pasang Mode Wait & See, Bursa Asia-Pasifik Dibuka Beragam (2024/04/08)",netral
+"Video: Perluas Perdagangan Karbon, RI Butuh Tebar Insentif Ini (2024/04/08)",netral
+"Miris! Gaji & THR Karyawan Indofarma Belum Dibayar, Ini Kronologinya (2024/04/08)",negatif
+Asisten Virtual BRI 'Sabrina' Siap Temani Penuhi Kebutuhan Lebaran (2024/04/09),positif
+Direktur BRI Tinjau Langsung Operasional Layanan Libur Lebaran (2024/04/09),netral
+Video: Industri Halal & Strategi Bank Syariah Perkuat Pembiayaan 2024 (2024/04/09),positif
+"Video: Ekspansi ANJT, Genjot Produksi Sawit Hingga Perluas Bisnis EBT (2024/04/09)",positif
+Pesta Usai! Harga Minyak Mentah Dunia Longsor Nyaris 1% (2024/04/09),negatif
+"Jelang Pengumuman Inflasi AS, Bursa Asia Dibuka Semringah (2024/04/09)",positif
+"Wall Street Dibuka Merah, Efek Data Inflasi AS Bikin Kaget? (2024/04/10)",negatif
+"Ekonomi Amerika Makin Panas, Dampaknya ke Aset Ini (2024/04/10)",negatif
+"Video: Fenomena Pabrik Tekor Saat PMI Manufaktur Cetak Rekor, Kenapa? (2024/04/10)",negatif
+Bos Garuda: Citilink Gabung Pelita Air Barengan dengan Injourney (2024/04/10),positif
+"Sosok Raja Debt Collector RI, Ramai Jadi Sorotan (2024/04/10)",netral
+Orang Terkaya Israel Ternyata Mesin Uangnya Ada di RI (2024/04/10),netral
+"Video: Keamanan Siber Berlapis BRI, Jurus Lindungi Data & Dana Nasabah (2024/04/10)",positif
+"Saldo Minimum BCA-Mandiri-BNI-BRI Terbaru 2024, Catat! (2024/04/10)",netral
+"Sosok 2 Raja Ritel Pakaian di Indonesia, Bangun Dinasti dari Nol (2024/04/10)",netral
+"Negosiasi Israel-Hamas Masih Alot, Harga Minyak Dunia Mendingin (2024/04/10)",negatif
+"Investor Tunggu Inflasi AS & Risalah The Fed, Bursa Saham Asia Lesu (2024/04/10)",negatif
+"Inflasi Produsen AS Melandai, Wall Street Dibuka Menguat! (2024/04/11)",positif
+"Salip Hartono Bersaudara & Salim, Harta Prajogo Pangestu Rp771 T (2024/04/11)",positif
+Bank bjb Buka Layanan Operasional Terbatas Selama Libur Lebaran 2024 (2024/04/11),netral
+"Miriam Adelson Ratu Judi Dunia Asal Israel, Hartanya Tak Berseri (2024/04/11)",netral
+"ECB Diramal Pangkas Suku Bunga Juni, The Fed Mau Nyalip? (2024/04/11)",netral
+Video: Biden Pamer Berhasil Turunkan Inflasi di Depan PM Jepang (2024/04/11),positif
+S&P Soal Nasib Rupiah Hingga Proyeksi Pemangkasan Bunga Acuan The Fed (2024/04/11),netral
+Video: S&P Ungkap Dampak 'Ngeri' Melambatnya Ekonomi China ke RI (2024/04/11),negatif
+"Bappebti Keluarkan Aturan Baru Buat Pedagang Aset Kripto RI, Simak! (2024/04/11)",netral
+"Gawat! Harga Minyak Dunia Terbang Tinggi ke US$ 90, Ini Pemicunya (2024/04/11)",negatif
+796 Ribu AgenBRILink Siap Layani Masyarakat Selama Libur Lebaran (2024/04/11),positif
+Suami Masuk Penjara dan Diceraikan Istri Usai Cuan Rp 26 Miliar (2024/04/11),negatif
+"Sosok Ratu Judi Dunia Ternyata dari Israel, Hartanya Tak Berseri (2024/04/11)",netral
+"Investor Global Kompak Jual Reksa Dana Saham, Kenapa? (2024/04/12)",netral
+Lo Kheng Hong Blak-Blakan Ungkap Kebiasaan yang Bikin Warga RI Miskin (2024/04/12),negatif
+Pembiayaan UMKM Hingga Mobil Listrik Multfinance Butuh Insentif Ini (2024/04/12),netral
+Video: China Kecewa Fitch Pangkas Peringkat Utang Jadi Negatif (2024/04/12),negatif
+"Deretan Harta Kekayaan 7 Presiden RI, Siapa yang Terkaya & Termiskin? (2024/04/12)",netral
+"Timur Tengah Masih Panas, Harga Minyak Membara Lagi (2024/04/12)",negatif
+"PDB Singapura Tumbuh 2,7% di Q1-2024, Ada Efek Konser Taylor Swift? (2024/04/12)",positif
+"Penipuan Terbesar di Vietnam, Konglomerat Properti Dihukum Mati! (2024/04/12)",negatif
+"Iran Bakal Serang Israel, Harga Minyak Langsung Membara! (2024/04/13)",negatif
+"Asisten Rumah Tangga Beli Saham Pakai Tabungan, Tak Disangka Malah... (2024/04/13)",netral
+"Kiamat Batu Bara Katanya Makin Dekat, Kapasitas PLTU Kok Malah Naik? (2024/04/13)",positif
+"Kasus Timah Rugi Triliunan, Efek Buruknya Tata Kelola Pertambangan? (2024/04/13)",negatif
+"Catat, Ini Syarat dan Modal Buka Indomaret Sendiri (2024/04/13)",netral
+"Video: Efek Kenaikan Harga Emas, Siapa yang Diuntungkan? (2024/04/13)",positif
+El Salvador Bisa Jadi Terkaya di Dunia Berkat Bitcoin (2024/04/13),positif
+"Video: Prabowo Jadi Presiden, Sektor Mana yang Menarik Investor? (2024/04/13)",netral
+"IHSG Hingga Rupiah Bergejolak, Investasi RI Masih Menarik Asing? (2024/04/13)",positif
+"Mau Buka Alfamart Sendiri, Ternyata Segini Modal & Syaratnya (2024/04/13)",netral
+"9 Profesi Ini Diprediksi Lenyap 6 Tahun Lagi, Termasuk Pekerjaanmu? (2024/04/13)",negatif
+"Ratu Judi Dunia Berharta Triliunan Ternyata dari Israel, Ini Sosoknya (2024/04/13)",netral
+"Video: Penjualan Toko Offline Vs Offline, Mana Andalan Ritel Modern? (2024/04/14)",netral
+"Crazy Rich India, Adani Bikin Geger! Bikin Pembangkit Luasnya 5X Paris (2024/04/14)",netral
+"Ini Dia Perusahaan Investasi Terbesar di Dunia, Asetnya US$ 10,47 T (2024/04/14)",positif
+"PHK Masih Mengancam Industri Sepatu Hingga Tekstil, Butuh Solusi Ini (2024/04/14)",negatif
+"Saham AS Rontok Berjamaah, Investor Khawatir Inflasi & Perang (2024/04/14)",negatif
+"Iran-Israel Memanas, Begini Proyeksi Harga Minyak Dunia dan BBM di RI (2024/04/15)",negatif
+"Besok Bursa Kembali Buka, Catat Ada Cum Date Dividen Rp1,97 T (2024/04/15)",positif
+Perhatian! Ini Analisa Airlangga soal Dampak Perang Iran-Israel ke RI (2024/04/15),negatif
+"Perang Timur Tengah Bikin Riyal Iran Ambles, Catat Rekor Terendah (2024/04/15)",negatif
+Sumber Kekayaan Crazy Rich Vietnam yang Divonis Hukuman Mati (2024/04/15),negatif
+"Video: Jika Rupiah Masih Melemah, Ini Efeknya Ke Industri Manufaktur! (2024/04/15)",negatif
+"Robert Kiyosaki Investasi Ini saat Dunia Terancam Perang, Apa? (2024/04/15)",netral
+"Iran-Israel Makin Panas, Bursa Asia Merah Membara (2024/04/15)",negatif
+"Awas Iran VS Israel Perang, Harga Minyak Membara (2024/04/15)",negatif
+"Kejutan! Iran Serang Israel, Pasar Saham Berjangka AS Malah Rebound (2024/04/15)",positif
+"Performa Keuangan Big Caps Impresif, Wall Street Dibuka Menguat (2024/04/16)",positif
+Korea Development Bank Perkuat Pendanaan KB Bank USD 300 Juta (2024/04/16),positif
+"Ratu Judi Dunia Asal Israel, Dapat Durian Runtuh & Jadi Orang Terkaya (2024/04/16)",netral
+"Video: Iran-Israel Makin Panas, Benarkah Jadi Peluang Baik Bagi RI? (2024/04/16)",netral
+"Video: Daya Beli Menurun, Bisnis Jajanan Masih Renyah? (2024/04/16)",netral
+"Xolare (SOLA) IPO, Tawarkan Harga Rp 100-Rp 110 per Saham (2024/04/16)",positif
+Video: Menakar Efek Domino Imbas Konflik Iran Vs Israel (2024/04/16),negatif
+"Video: IHSG Ditutup Anjlok Lebih Dari 1,5% (2024/04/16)",negatif
+"Emiten Ini Rombak Semua Direksi dan Komisarisnya, Ada Apa? (2024/04/16)",netral
+"Bank Woori Saudara (SDRA) Rights Issue Rp3,2 T, Catat Tanggalnya (2024/04/16)",positif
+"IHSG Ditutup Ambruk 1,68%, Ini Analisa dan Prediksi ke Depan (2024/04/16)",negatif
+"Dolar AS Mahal Banget, Pengusaha Ini Nawar di Money Changer (2024/04/16)",negatif
+"Video: Ada Ramadan & Lebaran, Bisnis Consumer Panen Berkah? (2024/04/16)",netral
+"IHSG Anjlok 2% Lebih, Bos Bursa Ungkap Penyebabnya (2024/04/16)",negatif
+"Saham Timah (TINS) Tiba-Tiba Melejit 10%, Ada Apa? (2024/04/16)",positif
+"Dolar AS Bakal Terus Perkasa, Airlangga Ungkap Penyebabnya (2024/04/16)",negatif
+"Video: Saham Perbankan Ambruk, IHSG Terpuruk (2024/04/16)",negatif
+"Video: Terburuk di Asia, Rupiah Anjlok Lebih Dari 2% (2024/04/16)",negatif
+"Iran-Israel Panas, Dolar Ambruk ke Rp16.170 (2024/04/16)",negatif
+"Video: Timur Tengah Panas, Harga Komoditas Membara (2024/04/16)",negatif
+15 Perusahaan Terbaik RI Untuk Pencari Kerja Menurut Linkedln (2024/04/16),netral
+"Video: Akibat Konflik Israel-Iran, Rupiah & IHSG Kompak Anjlok (2024/04/16)",negatif
+BEI Buka Suara Soal Aturan Baru Stock Split (2024/04/16),netral
+Anak Usaha BUMA Teken Kontrak Dengan Blackwater Operations (2024/04/16),netral
+"Rupiah Lemah Ternyata Ada Untungnya Bagi RI, Simak! (2024/04/16)",positif
+"Genjot Segmen Telekomunikasi, Laba Surge (WIFI) Tergerus 0,3% (2024/04/16)",negatif
+"Dolar AS Sentuh Rp 16.200, Ekonom Beberkan Kondisi Terburuk (2024/04/16)",negatif
+"Rupiah Merana Imbas Konflik Timteng, Pasar Keuangan RI Masih Kuat? (2024/04/16)",netral
+Video: Terungkap Biang Kerok Rupiah Tembus Rp16.180 Per Dolar AS (2024/04/16),negatif
+"Video: Iran-Israel Memanas, Airlangga Sebut Ekonomi RI Masih Baik (2024/04/16)",netral
+"Video: Investor Buru Dolar AS & Emas, BI Harus Jaga Rupiah (2024/04/16)",netral
+"Dolar AS Tembus Rp 16.000, Begini Dampaknya ke Perbankan (2024/04/16)",negatif
+"Rupiah Tembus Rp 16.000 per Dolar, Bankir Buka Suara Efeknya ke RI (2024/04/16)",negatif
+"Segini Kurs Jual Dolar AS di Bank, Ada yang Capai Rp16.500 (2024/04/16)",negatif
+"Emiten IPO Bisa Masuk Pemantauan Khusus, Bos BEI Buka Suara (2024/04/16)",netral
+Wah! Sudah Ada Bank yang Jual Dolar AS Rp 16.400 (2024/04/16),negatif
+"Perang Hingga Rupiah Anjlok, Jokowi Susun Berbagai Skenario (2024/04/16)",negatif
+"Video: Ekonomi China Lampaui Ekspektasi, Tumbuh 5.3% di Q1-2024 (2024/04/16)",positif
+"Pasar Panik & Rupiah Ambruk, Saham Ini Potensi Cuan! (2024/04/16)",positif
+"Harga Rekor, Saham Emiten Emas di RI Naik Tinggi! Ini Daftarnya (2024/04/16)",positif
+"Rupiah Anjlok ke Rp16.200/US$, Ini Kata Gubernur BI (2024/04/16)",negatif
+"Iran-Israel Panas, Bank Besar di RI Jual Dolar Rp 16.200-Rp 16.300 (2024/04/16)",negatif
+"Video: Israel-Iran Panas, Mantan Bos Bank Dunia Wanti-Wanti Ini ke RI (2024/04/16)",negatif
+BEI Blak-Blakan Soal Perang Iran-Israel Pengaruhi Pasar Saham RI (2024/04/16),negatif
+Video: Harga Emas Rekor Lagi! Sudah Lewat USD 2.400 Per Troy Ons (2024/04/16),positif
+Video: Menakar Laju IHSG di Hari Pertama Usai Libur Lebaran (2024/04/16),netral
+"Iran vs Israel Panas, Bursa Asia Berjatuhan! IHSG Paling Parah (2024/04/16)",negatif
+"Disebut Jadi Calon Ibu Negara, Segini Harta Kekayaan Titiek Soeharto (2024/04/16)",netral
+Video: Mantan Bos Bank Dunia Ungkap Dampak Konflik Iran-Israel ke RI (2024/04/16),negatif
+"Mencekam, Pasar Menanti Langkah 'Balasan' Israel ke Iran (2024/04/16)",negatif
+"OJK Telah Cabut Izin 9 BPR, Ini Daftarnya (2024/04/16)",negatif
+BI Buka-Bukaan Penyebab Rupiah K.O. Lawan Dolar (2024/04/16),negatif
+"Saham Blue Chip Berjatuhan, Saatnya Serok? (2024/04/16)",netral
+"Bank Sentral Fiji Beri Peringatan Keras, Kripto Kompak Ambruk (2024/04/16)",negatif
+"Video: Rupiah Anjlok, Tembus Rp16 Ribu Per Dolar AS (2024/04/16)",negatif
+"Simak, Ini Sektor Saham yang Berpotensi Cuan Selama Perang (2024/04/16)",positif
+"Saat IHSG Ambruk, 5 Saham Ini Malah Ngacir & Ada yang Sudah Sentuh ARA (2024/04/16)",netral
+Dolar AS Kini Rp16.200! Rupiah Terlemah Sejak Pandemi Covid (2024/04/16),negatif
+"Dolar Tembus Rp 16.200, BI Lakukan 3 Langkah Jaga Rupiah! (2024/04/16)",netral
+"Investor Panik IHSG Ambruk 2% Lebih, BEI Buka Suara! (2024/04/16)",negatif
+"Dolar AS Tembus Rp16.110, Ini Ternyata Biang Keroknya! (2024/04/16)",negatif
+"IHSG Ambruk 2% Lebih, 5 Saham Ini Jadi Pemberatnya (2024/04/16)",negatif
+"Rupiah Ambruk, Dolar Rp 16.110, BI Buka Suara! (2024/04/16)",negatif
+"2 Direksi Dan 1 Komisaris Matahari Putra Prima (MPPA) Resign, Ada Apa? (2024/04/16)",netral
+Pasar Panik! Dalam Hitungan Menit Dolar Tembus Rp16.110 (2024/04/16),negatif
+Ini Penyebab IHSG Ambruk 2% Lebih Usai Libur Panjang (2024/04/16),negatif
+"Saham Perbankan RI Ambruk Berjamaah, Ada Apa? (2024/04/16)",negatif
+"2 Emiten Melantai Abis Libur Lebaran, Begini Pergerakan Sahamnya (2024/04/16)",negatif
+"Breaking! Rupiah Anjlok, Dolar Tembus Rp16.000 (2024/04/16)",negatif
+"Breaking: Usai Libur Lebaran, IHSG Ambruk 2,68% (2024/04/16)",negatif
+Ini Dampak Perang Iran vs Israel ke Ekonomi dan Pasar Saham RI (2024/04/16),negatif
+"Tensi Geopolitik Iran-Israel mendidih, Bursa Asia Dibuka Melemah (2024/04/16)",negatif
+Ini Alasan Harga Bitcoin Jatuh Imbas Perang Iran VS Israel (2024/04/16),negatif
+"Usai Serangan Iran ke Israel, Harga Minyak Dunia Tergelincir (2024/04/16)",negatif
+Asing Diam-Diam Borong 10 Saham Ini Sepekan Sebelum Lebaran (2024/04/16),netral
+"Banyak Tekanan Eksternal, Rupiah Diprediksi Ambruk ke Rp16.000/US$ (2024/04/16)",negatif
+"Laba Bersih Emiten Gas (SBMA) Naik 5,53% di 2023 (2024/04/16)",positif
+Ini 4 Hal yang Perlu Diperhatikan Sebelum Investasi Emas (2024/04/16),netral
+"Siapa Simon Falic, Penyedia Bunker Netanyahu Saat Iran Serang Israel (2024/04/16)",netral
+Asing Terciduk Lego 10 Saham Ini Sebelum Libur Panjang Lebaran (2024/04/16),netral
+Dolar Rp16.200! Harusnya Rupiah di Level Berapa? Ini Jawab BI (2024/04/17),negatif
+"Fed Effect Memudar, Wall Street Dibuka di Zona Hijau (2024/04/17)",positif
+"Rupiah Jatuh, Ada Apa Dengan Ekonomi RI? BI: Nothing Wrong! (2024/04/17)",negatif
+"Jokowi Warning Pencucian Uang di Kripto, Bos OJK Mau Lakukan Ini (2024/04/17)",netral
+"2023, Laba M Cash (MCAS) Anjlok 48%! Manajemen Mau Lakukan Ini (2024/04/17)",negatif
+"IMF Warning Dunia Soal Utang AS, Awas Inflasi Meledak! (2024/04/17)",negatif
+"Inflasi Inggris Tembus 3,2% di Maret 2024, Suku Bunga Segera Turun? (2024/04/17)",negatif
+Bos OJK Blak-blakan Dampak Konflik Timur Tengah ke Lembaga Keuangan (2024/04/17),netral
+"Dolar Rp16.200, Senjata Sakti BI Meluncur Lindungi Rupiah (2024/04/17)",negatif
+"Iran vs Israel Panas, Bos OJK Buka-bukaan Soal Kondisi Bank RI (2024/04/17)",negatif
+Investor Harap Tenang! BI: Rupiah Lemah Hanya Sementara Waktu (2024/04/17),netral
+"Video: Perusahaan Aspal Mau IPO, Gimana Prospek SOLA? (2024/04/17)",netral
+Skandal Properti Bikin Vietnam Suntik Dana Rp390 T ke Saigon Bank (2024/04/17),positif
+"Timur Tengah Panas, OJK Titip Pesan Khusus Buat Lembaga Keuangan (2024/04/17)",negatif
+"Dolar AS Tembus Rp16.200, Bos BI: Market Nervous! (2024/04/17)",negatif
+"Dolar AS Tembus Rp 16.200, Erick Blak-blakan BUMN Ini Terdampak (2024/04/17)",negatif
+"Dolar Tembus Rp16.200, Erick Thohir Kirim Warning ke Bos-Bos BUMN (2024/04/17)",negatif
+"IHSG Dibayangi Geopolitik Global Hingga Ekonomi China Tumbuh 5,3% (2024/04/17)",netral
+"IHSG Gagal Rebound, 5 Saham Big Cap Ini Biang Keroknya (2024/04/17)",negatif
+"Jual Ribuan Fortuner, Segini Sumbangan Toyota ke Pendapatan Astra (2024/04/17)",netral
+Top! Aset Kelolaan Wealth Management BRI Tumbuh 21% di Kuartal I-2024 (2024/04/17),positif
+"Dolar Tembus Rp 16.200, IHSG Berakhir Lagi di Zona Merah (2024/04/17)",negatif
+Video: The Fed Diprediksi Masih Lama Turunkan Suku Bunga (2024/04/17),netral
+"Ramai Aksi Jual Dolar, Bankir Buka-Bukaan Soal Likuiditas Valas (2024/04/17)",netral
+"Dolar Menguat Lagi ke Rp 16.215, Terparah Sejak Pandemi Covid (2024/04/17)",negatif
+"Video: Timur Tengah Masih Panas, Rupiah Bakal Semakin Lemas? (2024/04/17)",negatif
+Sinar Mas (SMMA) Beli 15% Saham Multifinance Seharga Rp 60 M (2024/04/17),positif
+Video: Menilik Nasib Sektor Teknologi Saat Era Suku Bunga Masih Tinggi (2024/04/17),netral
+Video: Diskon Besar Saham Label KPop karena Hubungan Asmara Idol (2024/04/17),negatif
+"Video: Saham Big Caps Berguguran, Saatnya Borong? (2024/04/17)",netral
+"Video: Rupiah Masih Lesu, IHSG Rebound Tipis (2024/04/17)",positif
+"Kapitalisasi Pasar BREN Balik Ke Rp 1.000 T, Bisa Salip BCA Lagi? (2024/04/17)",positif
+"Direksi Bank Danamon (BDMN) Tambah 1,17 Juta Saham, Segini Nilainya (2024/04/17)",positif
+"Pengumuman Hasil Seleksi Administrasi Rekrutmen Bersama BUMN, Cek Yuk (2024/04/17)",netral
+"Video: Rupiah Anjlok, Gimana Daya Tahan Ekonomi RI ke Depan? (2024/04/17)",negatif
+"Multifinance Pulih, OJK Setop Program Stimulus Covid-19 (2024/04/17)",positif
+"Duh! Rusuhnya di AS & Timur Tengah, Rupiah Kena Getahnya (2024/04/17)",negatif
+"Orang Terkaya Malaysia Vs RI, Siapa yang Paling Tajir? (2024/04/17)",netral
+"Bos-Bos Garuda Indonesia Diguyur Bonus Saham, Segini Nilainya (2024/04/17)",positif
+"Tiba-Tiba Hotel Century Senayan Ganti Jadi Artotel, Diakuisisi? (2024/04/17)",netral
+Awas! Ini Dampak Rupiah Melemah ke Kantong Warga RI (2024/04/17),negatif
+"Investor Wajib Baca, Ini 5 Buku Rekomendasi Warren Buffett (2024/04/17)",netral
+"Israel-Iran Panas & Ekonomi China Melesat, Gimana Nasib Ekonomi RI? (2024/04/17)",negatif
+"2 Saham Andalan Lo Kheng Hong Ini Jadi Sorotan, Ada Bank dan Tambang (2024/04/17)",netral
+"Video: Rupiah Terpuruk Lagi, Tembus Rp16.250 Per Dolar AS (2024/04/17)",negatif
+"BTN Restrukturisasi Kredit Cucu Usaha Waskita Karya, Segini Nilainya (2024/04/17)",netral
+"Gegara 5 Saham Big Cap Ini, IHSG Berhasil Bangkit (2024/04/17)",positif
+"Video: IHSG Sukses Rebound, Saham Sektor Ini Layak Dicermati (2024/04/17)",positif
+"Daftar 5 Orang Terkaya RI Terbaru, Prajogo Makin Tak Terkejar (2024/04/17)",netral
+"Rupiah Kembali Ambruk, Segini Kurs Dolar di BCA, Mandiri Hingga UOB (2024/04/17)",negatif
+"The Fed Tetap Hawkish, Harga Minyak Mentah turun dari US$90/Barel (2024/04/17)",netral
+"Prajogo Pangestu Tambah Tajir, Ini Daftar Terbaru Orang Terkaya RI (2024/04/17)",netral
+"Video: Iran-Israel Memanas, Pelaku Pasar Modal Antisipasi Ini (2024/04/17)",negatif
+"Dolar Tembus Rp 16.000, Eks Menkeu Beberkan Opsi Terbaik Buat RI (2024/04/17)",positif
+"Dolar Rp 16.000, Dirut BNI Merasa Beruntung karena Ini (2024/04/17)",positif
+IHSG Dibuka Bangkit & Balik Ke 7.200-an Lagi (2024/04/17),positif
+"Rupiah Terpuruk Lagi, Dolar AS Tembus Rp16.250 (2024/04/17)",negatif
+"Dibayangi Sikap Hawkish The Fed, Bursa Asia Dibuka Hijau (2024/04/17)",positif
+Mantan Menkeu Jokowi Ungkap Biang Kerok Ambruknya Rupiah (2024/04/17),negatif
+"Ramalan Kiyosaki Jadi Nyata, Saatnya Beli Bitcoin, Emas & Perak? (2024/04/17)",netral
+"Disiplin Semai Talenta, Bank Mandiri Jadi LinkedIn Top Companies 2024 (2024/04/17)",positif
+Dolar Tembus Rp16.200/US$ Mampukah Intervensi BI Jadi Obat Kuat? (2024/04/17),netral
+"Euforia Mulai Berkurang, Kripto Lanjut Turun (2024/04/17)",negatif
+Saham Emas Berkilau Saat Investor Panik IHSG Ambruk (2024/04/17),negatif
+"Asing Terciduk Belanja Saham Energi & Tambang di RI, Ini Datanya (2024/04/17)",netral
+"Cerita Pria Sukabumi, Terusir dari Indonesia & Jadi Raja Hotel Dunia (2024/04/17)",netral
+"IHSG Ambruk 1,68%, Asing Net Sell Rp 2,48 Triliun (2024/04/17)",negatif
+"Nah! Begini Komentar Bankir, Pengusaha & BI soal Dolar Rp 16.000 (2024/04/17)",netral
+"IHSG Masih Diselimuti Sentimen Negatif, Cermati Saham MDKA, ELSA, INCO (2024/04/17)",negatif
+"S&P 500 & Nasdaq Bangkit, Wall Street Dibuka Menghijau (2024/04/18)",positif
+"Dolar Tembus Rp 16.000, Minat Masyarakat Beli Asuransi Tinggi (2024/04/18)",negatif
+"BUMN RI Anti 'Badai', Tangan Kanan Erick Thohir Ungkap Rahasianya (2024/04/18)",positif
+"Bos Prodia (PRDA) Ngeri Dengan Pelemahan Rupiah, Ini Efeknya (2024/04/18)",negatif
+"Kasih Uang Pertanggungan 300%, Allianz Andalkan Ini Buat Taruh Uang (2024/04/18)",positif
+"Video: IHSG Ditutup Menguat, Simak Proyeksi Untuk Besok! (2024/04/18)",positif
+"Rupiah Ambruk Ke Atas Rp 16.000/USD, Sektor Properti Kena Getahnya? (2024/04/18)",negatif
+Pria Ini Jadi Orang Terkaya RI karena Punya Alfamart (2024/04/18),netral
+"Pendapatan Telkom (TLKM) Naik Jadi Rp37 T, Pos Ini Penyumbang Terbesar (2024/04/18)",positif
+"Video: Usia 2 Hari Muram, IHSG & Rupiah Kembali Semringah (2024/04/18)",positif
+"Ketiban Untung Rupiah Loyo, Eksportir Harus Kena Pajak Tambahan (2024/04/18)",negatif
+"Video: Pesaing Berat Starlink Elon Musk Mau IPO, Gimana Prospeknya? (2024/04/18)",netral
+"Dicecar Bursa Karena Naik 40,53%, Ini Jawaban Emiten Prajogo (BREN) (2024/04/18)",netral
+"Kurs Rata-rata Januari-Maret Rp15.600/US$, ICP US$80/Barel (2024/04/18)",netral
+"Anak Buah Erick Sebut Direksi BUMN Banyak yang ""Sakit Perut"" (2024/04/18)",negatif
+Anak Buah Erick Thohir Blak-Blakan Soal Kondisi Bank BUMN RI (2024/04/18),netral
+"IHSG Naik 0,5% Hari Ini! BBRI, BMRI, TLKM Jadi Penopang (2024/04/18)",positif
+"Wow! Investasi di Saham Teknologi, SWF Ini Untung Rp 1.760 Triliun (2024/04/18)",positif
+"Dolar Rp16.200, Airlangga: Cadev BI Besar, Tak Perlu Khawatir (2024/04/18)",positif
+Anak Buah Erick Thohir Bocorin Masa Depan BUMN Tambang RI (2024/04/18),netral
+"Airlangga: Pelemahan Rupiah Tak Seburuk Baht, Ringgit & Yuan (2024/04/18)",positif
+"Bangun Pusat AI Bareng Nvidia, Ini Alasan Indosat Pilih Solo (2024/04/18)",positif
+"Video: Saham Perbankan Masih Volatile, Prospeknya Gimana? (2024/04/18)",netral
+Anak Buah Erick Thohir Buka-Bukaan Soal Kinerja BUMN Tambang (2024/04/18),netral
+"Laba Turun 30,2%, Ini Alasan Prodia (PRDA) Tetap Bagi Dividen Rp259 M (2024/04/18)",positif
+Merger Bank Nobu dan Bank MNC Alot! OJK Blak-blakan Penyebabnya (2024/04/18),negatif
+"Rupiah Akhirnya Menguat, Dolar Tinggalkan Rp16.200 (2024/04/18)",positif
+"Erick Thohir Warning BUMN yang Terdampak Iran-Israel, Ini Pesannya (2024/04/18)",negatif
+Waspada! Ada Tren Modus Baru Penipuan Kuras Rekening (2024/04/18),negatif
+"Video: Investor Mulai Pede, IHSG & Rupiah Kompak Menguat (2024/04/18)",positif
+Fitch Ratings Pertahankan Level AAA KB Bank dengan Outlook Stabil (2024/04/18),positif
+Breaking: Telkom Raup Laba Rp 6 T di Kuartal I-2024 (2024/04/18),positif
+"Abu Dhabi Islamic Bank Incar Saham BSI (BRIS), OJK Buka Suara (2024/04/18)",netral
+Tak Beradab! OJK Temukan 195 Kontak Debt Collector Intimidasi Debitur (2024/04/18),negatif
+"Pasar China & Hong Kong Lesu, Morgan Stanley & HSBC Bakal PHK Massal (2024/04/18)",negatif
+"Simak, Ini Sektor Saham yang Berpotensi Cuan Selama Perang (2024/04/18)",positif
+Indofarma (INAF) Tak Bisa Bayar Gaji-THR dan Cerita Mundurnya Komut (2024/04/18),negatif
+"IHSG Mulai Cerah, 5 Saham Ini Sudah Cuan Banyak (2024/04/18)",positif
+"Abu Dhabi Islamic Bank Incar BSI (BRIS), Dirut BNI Bilang Begini (2024/04/18)",netral
+Emiten Angkutan Laut (BSML) Gelar Rights Issue 400 Juta Saham (2024/04/18),positif
+"Rupiah Menguat, Cek Kurs Dolar AS di BCA, BNI, Hingga UOB! (2024/04/18)",positif
+"Kisah Konglomerat Terkaya Iran Korupsi, Berakhir Dihukum Mati (2024/04/18)",netral
+OJK Blokir 537 Pinjol Ilegal dan 13 Investasi Bodong (2024/04/18),negatif
+"Naik 40,53%, BEI Pantau Ketat Saham Prajogo Pangestu Ini (2024/04/18)",positif
+"Video: Biaya Impor Naik Dampak Pelemahan Rupiah, Ini Kata Bulog (2024/04/18)",negatif
+"Gandeng Raksasa China, Harum Energy (HRUM) Genjot Bisnis Nikel (2024/04/18)",positif
+Video: Uji Daya Tahan Penguatan Rupiah Lawan Dolar AS (2024/04/18),netral
+"Gak Bisa Bayar Gaji Karyawan, Saham Indofarma (INAF) Ambles 4,63% (2024/04/18)",negatif
+"Tiba-Tiba Warrent Buffet Borong Obligasi AS, Ada Apa? (2024/04/18)",netral
+"Bantu Israel Lawan Iran, Raja Yordania Sembunyikan Harta Triliunan (2024/04/18)",negatif
+"Video: IHSG Rebound di Sesi I, Bisa Bertahan Sampai Penutupan? (2024/04/18)",positif
+"Video: Rupiah Tembus Rp16.000, Importir Daging Was-Was (2024/04/18)",positif
+BUMN Indofarma (INAF) Ngaku Tak Punya Uang Buat Bayar Gaji Karyawan (2024/04/18),negatif
+"Saham BRIS Melejit 2,02% Pasca Isu Abu Dhabi Islamic Bank Mau Masuk (2024/04/18)",positif
+RI Wajib Berubah! Lakukan Ini Biar Rupiah Tak Gampang Jatuh (2024/04/18),netral
+"IHSG Sumringah Lagi, 5 Saham Big Cap Ini Jadi Penopang (2024/04/18)",positif
+"Kata Robert Kiyosaki Ngutang Buat kita Makin Kaya, Kok Bisa? (2024/04/18)",netral
+"Tensi Iran-Israel Mereda, Harga Minyak Ambruk 3% (2024/04/18)",negatif
+"Video: IHSG Dibuka Semringah, Rupiah Kuat Lawan Dolar (2024/04/18)",positif
+"Ada 6 Bank Dipantau Khusus Bursa, 2 Belum Lapor Laporan Keuangan (2024/04/18)",negatif
+"Rupiah Menguat Tajam, Dolar Sekarang di Rp16.170 (2024/04/18)",positif
+"IHSG Langsung Ngegas Naik 0,4%, Bakal Awet Hingga Akhir Perdagangan? (2024/04/18)",positif
+Abu Dhabi Islamic Bank Kasih Sinyal Kuat Mau Beli 15% Saham BSI (BRIS) (2024/04/18),positif
+"CEO Tim Cook ke Indonesia, Kapitalisasi Saham Apple Rp 41.996 Triliun (2024/04/18)",netral
+"Kripto Lanjut Turun, Tiga Faktor Ini Jadi Biang Kerok (2024/04/18)",negatif
+"Efek Wall Street Tumbang, Nikkei Anjlok 4 Hari Beruntun (2024/04/18)",negatif
+"Penurunan Suku Bunga AS Makin Mundur, Rupiah Rawan Melemah! (2024/04/18)",negatif
+"Dolar di Atas Proyeksi Jokowi & BI, Erick Thohir Beberkan Kondisi BUMN (2024/04/18)",negatif
+"IHSG Dua Hari Terkapar, Asing Belanja Saham Energi, Tambang, dan Bank (2024/04/18)",netral
+"Asing Net Sell Rp 470,7 M, Saham Ini Banyak Dilepas (2024/04/18)",negatif
+"IHSG Merah Dua Hari, Cek Saham TKIM, BBNI, dan PGEO Hari Ini (2024/04/18)",negatif
+"Dolar AS Sudah Rp16.200, Jauh di Atas Perkiraan Jokowi & BI (2024/04/18)",negatif
+"Update Kasus LPEI, KPK Sudah Periksa 20 Saksi (2024/04/19)",netral
+Hasil RUPST FIF: Laba Naik 29.4% dan Angkat Bos Baru (2024/04/19),positif
+Kejagung Sita Lagi 2 Mobil Mewah Milik Suami Sandra Dewi (2024/04/19),negatif
+"Antisipasi Kredit Macet Melejit, Smart Finance Gandeng CBI (2024/04/19)",netral
+Tok! Medco Energi Resmi Lepas Seluruh Saham di Ophir Vietnam (2024/04/19),netral
+Video: Ekonom Sayangkan Pernyataan Erick Thohir Soal BUMN Borong Dolar (2024/04/19),negatif
+"Bank Tutup Jadi 10, Terbaru OJK Cabut Izin Usaha Bank Syariah di Kudus (2024/04/19)",negatif
+Video: Menakar Dampak Serangan Israel ke Iran Bagi Ekonomi RI (2024/04/19),netral
+"Dalam Waktu 3 Hari, Dana Asing Keluar Rp21,46 T dari RI (2024/04/19)",negatif
+"Perang Israel-Iran, Pengusaha: RI Sudah Terlatih Hadapi Krisis Ekonomi (2024/04/19)",positif
+"Freeport Setor Rp3,35 T ke Papua, Duitnya Buat Ini (2024/04/19)",netral
+"Dugaan Korupsi Timah, Kejagung Telusuri Jet Pribadi Milik Harvey Moeis (2024/04/19)",negatif
+Video: IHSG Anjlok Lebih Dari 1% Hingga Harga Emas Terus Cetak Rekor (2024/04/19),negatif
+"Video: Jika Perang Iran-Israel Masif, Ini yang Bakal Terjadi! (2024/04/19)",netral
+Tanah Deltamas (DMAS) Milik Sinar Mas Diborong Buat Data Center (2024/04/19),netral
+Duo Saham Bank Jumbo Bikin IHSG Terkapar Lagi (2024/04/19),negatif
+"Dolar Tembus Rp 16.250, OJK Minta Masyarakat Jangan Panik (2024/04/19)",negatif
+"Efek Perang Memudar, IHSG Pangkas Koreksi Jadi 1,11% (2024/04/19)",positif
+"Saham INAF Ambles 9,74% Hari Ini, Antrean Jual Capai 8.243 Lot (2024/04/19)",negatif
+"Dibayangi Kasus Korupsi Rp 271 T, PT Timah (TINS) Bakal Untung Gede (2024/04/19)",netral
+"Serangan Israel ke Iran Jadi Sorotan, Dolar Ditutup Naik ke Rp16.250 (2024/04/19)",negatif
+"Dolar Tembus Rp16.250, Ini Hasil Stress Test OJK ke Industri Perbankan (2024/04/19)",netral
+Starlink Ancam Bisnis Telkom (TLKM)? Ini Penjelasan Stafsus Erick (2024/04/19),netral
+Tegas! Menteri Erick Tak Pernah Perintah Pertamina PLN Cs Borong Dolar (2024/04/19),netral
+Stafsus Erick Ungkap di Balik Harga Saham TINS Naik Saat Kasus Korupsi (2024/04/19),netral
+"Iran-Israel Panas Bikin Harga Minyak Mendidih, Apa Kabar Saham Energi? (2024/04/19)",netral
+"Iran-Israel Makin Panas, Dolar Sudah Tembus Rp 16.275 (2024/04/19)",negatif
+"Rupiah Ambruk Lagi, Ada Bank Siap Beli Dolar Rp16.275 (2024/04/19)",negatif
+"OJK Bubarkan Dapen BUMN Jasa Tirta II, Ini Daftar Tim Likuidasinya (2024/04/19)",netral
+"Jokowi Warning Pencucian Uang di Kripto Rp139 T, PPATK Lakukan Ini (2024/04/19)",netral
+"Video: Israel Serang Iran, Saham Komoditas Bakal Semakin Membara? (2024/04/19)",negatif
+"Belum Bayar Gaji Karyawan, Rugi Indofarma Bengkak & Kas Negatif (2024/04/19)",negatif
+"Serangan Israel ke Iran Tekan IHSG, Bos Bursa Buka Suara (2024/04/19)",negatif
+Video: Menebak Arah IHSG & Rupiah di Tengah Ketidakpastian Global (2024/04/19),negatif
+"Dolar Sentuh Rp16.280 Pukul 13.00, Gegara Israel Serang iran (2024/04/19)",negatif
+"Koreksi IHSG Akhir Sesi I Makin Parah, Ambruk 1,45% (2024/04/19)",negatif
+"Utang Luar Negeri RI Februari 2024 Naik Tipis Jadi US$ 407,3 M (2024/04/19)",netral
+"Konflik Israel Iran Memanas: Pukul 12.00 WIB, Dolar Sentuh Rp 16.270 (2024/04/19)",negatif
+"Iran-Israel Panas, Dirjen Migas: Distribusi Minyak ke RI Masih Aman (2024/04/19)",negatif
+"Dikabarkan Mau Caplok 15% Saham BSI (BRIS), Ini Profil ADIB Bank (2024/04/19)",netral
+"Mau Jadi Nasabah Prioritas BCA, BRI, Mandiri, Segini Saldo Minimalnya (2024/04/19)",netral
+"Video: Harga Minyak Melonjak, Pemerintah Cari Pasokan di Luar Timteng (2024/04/19)",netral
+"Pukul 11:00: Kabar Israel Luncurkan Serangan, Dolar Tembus Rp16.275 (2024/04/19)",negatif
+"Jualan Buah Impor, Emiten Ini Dongkrak Kapasitas Hingga 7.905 Ton (2024/04/19)",positif
+"Israel Luncurkan Serangan ke Iran, Kripto Tergelincir Berjamaah (2024/04/19)",negatif
+"Direktur Utama Indo Straits (PTIS) Toh Shi Ji Mundur, Ada Apa? (2024/04/19)",netral
+"Gelontorkan Rp872 M, EMTEK Akuisisi Emiten Layanan Bandara (CASS) (2024/04/19)",netral
+"Laba RMK Energy (RMKE) Turun 20,38% ke Rp308,9 M, Ini Penyebabnya (2024/04/19)",negatif
+"Cek Saldo Minimum BCA, Mandiri, BNI, BRI Terbaru (2024/04/19)",netral
+"IHSG Ambruk Ke Level 7.000-an, Terendah Sejak Desember 2023 (2024/04/19)",negatif
+"Teknologi Blockchain Bisa Bantu Percepat Klaim Asuransi, Ini Caranya (2024/04/19)",netral
+"IHSG Ambruk Gara-Gara Israel Serang Iran, 5 Saham Ini Jadi Beban (2024/04/19)",negatif
+Apa Itu Halving Bitcoin? Investor Wajib Tahu Biar Cuan (2024/04/19),netral
+"Israel Serang Iran, Bos BI Pastikan Jaga Stabilitas Rupiah (2024/04/19)",netral
+"Ada Kabar Israel Serang Iran, IHSG Kebakaran Jatuh 1% Lagi (2024/04/19)",negatif
+Israel Serang Iran Bikin IHSG Ambles 1% Lebih Pagi Ini (2024/04/19),netral
+"Israel Serang Iran, Harga Minyak Dunia Terbang 3% (2024/04/19)",negatif
+"Terbang 85% Sebulan, Bursa Gembok Saham Estee Gold (EURO) (2024/04/19)",positif
+"Rupiah Turun Tajam, Dolar Sentuh Rp16.260 (2024/04/19)",negatif
+"Breaking: IHSG Dibuka Anjlok 1,04% (2024/04/19)",negatif
+Anak Usaha Waskita Karya (WSKT) Setor Modal ke Waskita Sriwijaya Toll (2024/04/19),netral
+Grup Sinar Mas Sumbang 73% Pendapatan Emiten Penyewaan Heli Ini (2024/04/19),netral
+"Inflasi Jepang Melambat, Nikkei Ambruk Nyaris 2% (2024/04/19)",netral
+"Rupiah Mencoba Bangkit, tapi Masih Rawan Koreksi Hari Ini (2024/04/19)",netral
+Bankir Senior Ini Mengundurkan Diri dari Komisaris KB Bank (BBKP) (2024/04/19),netral
+Merger Bank Nobu dan Bank MNC Alot! Begini Kinerja Kedua Bank (2024/04/19),netral
+"Sudah Dicecar Bursa, Asing Maju Tak Gentar di Saham BREN (2024/04/19)",positif
+"Bursa Tetapkan Harga Teoretis WIKA Rp 204, Kapan Gembok Dibuka? (2024/04/19)",netral
+"Net Sell Asing Rp 723,75 M, Deretan Saham Ini Masuk Keranjang Jual (2024/04/19)",negatif
+"Kisah 5 Konglomerat RI: Sebelum Sukses Hidup Melarat, Ada Modal 3 Baju (2024/04/20)",netral
+Nasib Sektor Properti Hadapi Kenaikan PPN Jadi 12% & Pelemahan Rupiah (2024/04/20),negatif
+"Video: Rupiah Dihantam Sentimen Global, Ekonomi & APBN Masih Aman? (2024/04/20)",netral
+"Cetak Pendapatan Rp 37 T, Telkom Optimis Kejar Pertumbuhan di 2024 (2024/04/20)",positif
+"Video: Rupiah Melemah, Pengusaha Belum Mau Pakai Mata Uang Lokal (2024/04/20)",negatif
+"Soekarno Misterius, Segini Harta 7 Presiden RI, Siapa Paling Tajir? (2024/04/20)",netral
+"Video: Hadapi Pelemahan Rupiah, Bulog Buka Peluang Ekspor (2024/04/20)",netral
+"Video: Iran-Israel Panas, Suku Bunga Bank Sentral Bakal Sulit Turun? (2024/04/21)",netral
+"Dolar Tembus Rp 16.250, Ini Komentar Sri Mulyani & Bos BI (2024/04/21)",netral
+"Wow! Rolex hingga Jet Pribadi, Ini Harta Harvey Moeis & Dewi Sandra (2024/04/21)",netral
+"Video: Timur Tengah Memanas, Harga Emas Bakal Makin Ngegas? (2024/04/21)",negatif
+Begini Prospek 'Cuan' dari Momen Halving Bitcoin (2024/04/21),netral
+"Video: Teka Teki Bunga The Fed, Kapan Turun? (2024/04/22)",netral
+Video: Nasib Pasar Keuangan RI Saat Ada Krisis Baru di Timteng (2024/04/22),negatif
+"Bukan Iran-Israel, Bos BCA Blak-blakan Penyebab Rupiah Ambruk (2024/04/22)",negatif
+"Tekanan Geopolitik di Timur Tengah Mereda, Wall Street Dibuka Hijau! (2024/04/22)",positif
+"Bos BCA: Dunia Gak Pasti, Merem Aja Kondisi Berubah (2024/04/22)",netral
+"Airlangga Tegaskan Kondisi Perbankan Kuat, Ini Buktinya (2024/04/22)",positif
+Bos BCA Blak-Blakan Ramal Suku Bunga The Fed Susah Turun (2024/04/22),netral
+Video: Menguji Ketahanan Rupiah di Tengah Penantian Sikap The Fed (2024/04/22),netral
+"Sengketa Lahan, Bumi Menara Internusa (BMI) Minta Tunda Eksekusi (2024/04/22)",negatif
+"Video: MK Tolak Gugatan Pilpres, Begini Dampaknya ke Pasar Saham! (2024/04/22)",netral
+Medco Energy (MEDC) Siapkan Rp200 M Buat Buyback Saham (2024/04/22),netral
+"Update Terbaru Soal Merger dengan NOBU, Bank MNC (BABP) Bilang Gini (2024/04/22)",netral
+"Gokil, Kebun Sawit Palmco Terluas di Dunia! Segini Luasnya (2024/04/22)",netral
+Video: Tips Berburu Saham Mercy Harga Bajaj di Tengah Perang (2024/04/22),netral
+"Ini Pemilik Alfamart dan Indomaret, Siapa Lebih Kaya? (2024/04/22)",netral
+"Emiten Keluarga Tanoko AVIA Bagikan Dividen Jumbo, Segini Nilainya (2024/04/22)",positif
+Video: IHSG Keok Hingga Saham GOTO Terus Anjlok (2024/04/22),negatif
+"MK Tolak Gugatan Pilpres! Gibran Rakabuming Resmi Wapres, Cek Hartanya (2024/04/22)",netral
+"Video: Koreksi Rupiah Dinilai Aman, BI Masih Perlu Kerek Suku Bunga? (2024/04/22)",netral
+"IHSG Gagal Hijau, Ternyata Ini Penyebabnya (2024/04/22)",negatif
+"BCA Salurkan Kredit Rp 835,7 T, Korporasi Jadi Penopang (2024/04/22)",positif
+Video: Saham Prospek Cuan Saat Perang Memanas Hingga Rupiah Melemah (2024/04/22),netral
+"MK Tolak Gugatan Anies dan Ganjar, IHSG Gagal Balik Ke Zona Hijau (2024/04/22)",negatif
+"Bos Segar Kumala (BUAH) Bocorin Soal Dividen, Segini Nilainya (2024/04/22)",positif
+"Breaking! BCA Raup Laba Rp 12,9 T di Kuartal I-2024, Tumbuh 11,7% (2024/04/22)",positif
+MK Tolak Gugatan Pilpres! Prabowo OTW Jadi Presiden Berharta Rp2 T (2024/04/22),netral
+"Belum Ada ""Hilal"" BI Rate Dipangkas, Industri Tekstil Keluhkan Hal Ini (2024/04/22)",netral
+"Bos BEI Beri Tanggapan Soal Hasil Putusan MK, Ini Katanya (2024/04/22)",netral
+"Gugatan Anies dan Ganjar Resmi Ditolak MK, Dolar Turun ke Rp16.230 (2024/04/22)",netral
+"Banyak Dividen Besar Bertaburan hingga Minggu Depan, Catat Tanggalnya (2024/04/22)",positif
+"Rupiah Tembus Rp16.200/USD, Nasib Industri Tekstil RI Makin Terpuruk! (2024/04/22)",negatif
+"MK Tolak Gugatan Pilpres Anies, Dolar AS Turun Tipis ke Rp 16.230 (2024/04/22)",netral
+"MK Tolak Gugatan Pilpres Anies - Muhaimin, Pelemahan IHSG Berkurang (2024/04/22)",netral
+"Video: Gawat! Jika BI Tak Lakukan Ini, Rupiah Bisa Makin Terpuruk (2024/04/22)",negatif
+"Gugatan Pilpres Ditolak MK, Segini Harta Kekayaan Anies Baswedan (2024/04/22)",netral
+"Ada Risiko BI Rate Naik Efek Rupiah Anjlok, Pasar Harap BI Hati-hati (2024/04/22)",negatif
+"Prodia (PRDA) Tebar Dividen Rp155,6 M, Cek Jadwal Pembagiannya (2024/04/22)",positif
+"Perang-Inflasi Tinggi AS, IHSG Melemah & Rupiah Masih Rp16.200/USD (2024/04/22)",negatif
+"Lo Kheng Hong Sebut Kebiasaan Warga RI Ini Bisa Bikin Miskin, Apa Itu? (2024/04/22)",netral
+"HERO Alihkan Bisnis Makanan, Fokus ke IKEA dan Guardian (2024/04/22)",netral
+"Jadi Nasabah Prioritas BCA Hingga Mandiri, Ini Layanan Mewahnya (2024/04/22)",netral
+"Perkuat Usaha, MTEL Genjot Bisnis Fiber Optik (2024/04/22)",positif
+"Kapitalisasi Pasar Bursa RI Rp11.461 T, 35% Perusahaan Keuangan (2024/04/22)",netral
+Vale Indonesia (INCO) Mau Rights Issue 603 Juta Saham di Harga Segini (2024/04/22),netral
+"Rupiah Dibuka Menguat, Cek Kurs Dolar AS di BCA Hingga Mandiri (2024/04/22)",positif
+Perusahaan Singapura Ini Jadi Investor Pertama Grand Batang City (2024/04/22),netral
+Video: 2 Penyebab Yang Bikin Rupiah Melemah & Yield SBN Sentuh 7% (2024/04/22),negatif
+"Cari Investor BSI (BRIS), Erick Thohir ke Qatar, Wamen Tiko Ke Eropa (2024/04/22)",netral
+"Emiten Grup Kresna (DMMX) Digembok Bursa, Sahamnya Anjlok 46,54% (2024/04/22)",negatif
+"Dolar Tembus Rp16.250, OJK Buka-Bukaan Soal Kondisi Bank RI (2024/04/22)",netral
+"Masih Rugi Besar, Bank Neo Commerce (BBYB) Mau Rights Issue Lagi (2024/04/22)",negatif
+"OJK Terbitkan Aturan Penanganan Bank Bermasalah, Ini 4 Poin Utamanya (2024/04/22)",netral
+"IHSG Galau Jelang Putusan MK, 5 Saham Ini Jadi Penahannya (2024/04/22)",netral
+"Jeep Rubicon Mario Dandy Dilelang Rp 809,3 Juta (2024/04/22)",netral
+"Tekanan Geopolitik di Timur Tengah Mereda, Harga Minyak Mendingin! (2024/04/22)",negatif
+"Bitcoin Halving Jadi Angin Segar, BTC Sentuh US$65.000 (2024/04/22)",positif
+"Sidang Putusan MK Dimulai, Dolar Turun Jadi Rp 16.200 (2024/04/22)",netral
+"Jelang Pengumuman Sengketa Pilpres di MK, IHSG Cuma Naik Tipis (2024/04/22)",netral
+"Jelang Pengumuman Kinerja Kuartal-I, Saham GOTO Sudah Koreksi 30,23% (2024/04/22)",netral
+"Setelah Koreksi Pekan Lalu, Bursa Asia-Pasifik Mulai Bangkit! (2024/04/22)",positif
+"Saham Ambruk-Gaji Karyawan Tidak Dibayar, Bursa Pantau Ketat Indofarma (2024/04/22)",negatif
+"Sepanjang 4 Bulan 2024 Ada 10 Bank di RI Bangkrut, Ini Daftarnya (2024/04/22)",negatif
+"IHSG Gonjang-ganjing, Asing Pegangan ke Saham Energi & Tambang (2024/04/22)",netral
+"IHSG Masih Rawan Koreksi, Cek Rekomendasi Saham Hari Ini (2024/04/22)",netral
+"Net Sell Rp 7,9 T, Asing Ketahuan Ramai-Ramai Jual Saham Ini (2024/04/22)",negatif
+"Sidang Putusan MK-Rilis Neraca Dagang, Rupiah Masih Rawan Hari Ini (2024/04/22)",negatif
+Ini Alasan PGEO Optimis Hadapi 2024 (2024/04/23),netral
+"Terungkap, Sekoper Penuh Uang Diselundupkan di Bandara Tersibuk Dunia (2024/04/23)",negatif
+"Rilis Kinerja Keuangan Membaik, Wall Street Dibuka Hijau! (2024/04/23)",positif
+"Rumah Mewah Disorot, Ternyata Segini Harta Kekayaan Andika Perkasa (2024/04/23)",netral
+"IHSG Bisa Turun Sampai Rp7.000, Saatnya Berburu Saham Diskon (2024/04/23)",netral
+"Video: Rupiah di Atas Rp 16.200/US$, BI Rate Bakal Naik? (2024/04/23)",netral
+Video: Alasan DPR Minta ESDM Percepat Penerbitan RKAB Timah (2024/04/23),netral
+"Tidak Mau Kalah Sama Kripto, Bursa Efek New York Mau Buka 24/7 (2024/04/23)",netral
+"Video: Prabowo Dipastikan Presiden, IHSG & Rupiah Rebound (2024/04/23)",positif
+"Disentil Erick Thohir, Indonesia Re Buka Suara (2024/04/23)",netral
+"Video: Kinerja Jeblok, Saham INAF Masih Menarik Dikoleksi? (2024/04/23)",negatif
+"Bank China Terancam Didepak dari Sistem Keuangan Global, Kenapa? (2024/04/23)",negatif
+Kejagung Serahkan 5 Smelter Sitaan Kasus Timah ke Kementerian BUMN (2024/04/23),negatif
+"IHSG Cerah, 5 Saham Ini Jadi Penggeraknya (2024/04/23)",positif
+"The Fed Diproyeksi Pangkas Suku Bunga September, BI Kapan? (2024/04/23)",netral
+"Prospek Panas Bumi Makin Cerah, PGEO Siap Menadah Berkah (2024/04/23)",positif
+"RBC Mepet Batas, Indonesia Re Tunggu PMN Rp 1 T Tahun Ini (2024/04/23)",netral
+OJK Bertitah Kepada Ibu-Ibu Untuk Hati-Hati Dengan Lintah Darat! (2024/04/23),netral
+"Prabowo Pasti Presiden-Konflik Timteng, Begini Nasib Saham Bank di RI (2024/04/23)",netral
+"Deg-degan Tunggu BI Rate, Dolar AS Ditutup Rp 16.215 (2024/04/23)",negatif
+Astra Agro Lestari (AALI) Bagikan Sisa Dividen Rp 165 per Saham (2024/04/23),positif
+Pengumuman Hasil Seleksi Administrasi Rekrutmen Bersama BUMN 2024 (2024/04/23),netral
+"Video: Rupiah Terus Loyo, CEO Bank di RI Bilang Ini (2024/04/23)",negatif
+"Usut Kasus Korupsi Timah, Kejagung Periksa Lagi 2 Pejabat PT Timah (2024/04/23)",negatif
+Lebih dari Setengah Orang Dewasa RI Tidak Punya Rekening Bank (2024/04/23),netral
+"Susiana Latif Jual 2,3 Juta Lembar Saham MAPA (2024/04/23)",netral
+Iran-Israel Reda Kok Rupiah Tembus Rp 16.230/US$? Ini Kata Ekonom (2024/04/23),negatif
+"Gencar Ekspansi, PGEO Masuk ke Pasar Kenya dan Turki (2024/04/23)",netral
+OJK Titip Pesan Ini ke Ibu-Ibu Sebelum Ambil Kredit Bank (2024/04/23),netral
+Pesan Menohok Bos OJK ke Ibu-Ibu: Jangan Ciptakan Generasi Sandwich! (2024/04/23),netral
+"Video: Pasar Respon Positif Putusan MK, IHSG Rebound Tipis (2024/04/23)",positif
+"Laba Mitra Pedagang Indonesia (MPIX) Lompat 30,82%, Ini Penyebabnya (2024/04/23)",positif
+Bos BCA Sebut Banyak Warga RI Libur ke Luar Negeri Bikin Rupiah Ambruk (2024/04/23),negatif
+"BI Intervensi Jaga Rupiah, Bos BCA: Seperti Buang Garam ke Laut (2024/04/23)",netral
+"Video: Posisi Rupiah Digoyang Isu Perang, Apa Efeknya Ke Ekonomi RI? (2024/04/23)",negatif
+"Banyak Tantangan di Industri Panas Bumi, PGEO Ungkap Jurus Ini (2024/04/23)",netral
+Jurus PGE Kembangkan Bisnis Geothermal Global Hingga Turki dan Kenya (2024/04/23),positif
+"Asuransi Multi Artha (AMAG) Buyback Saham Rp63,1 M, Cek Jadwalnya (2024/04/23)",positif
+"Amit-Amit Suku Bunga BI Naik, Hidup Bisa Makin Susah (2024/04/23)",negatif
+"Ikut OJK, Bank MNC (BABP) Kasih Sinyal Kuat Merger dengan Bank Nobu (2024/04/23)",positif
+"Video: Kinerja Ciamik di Geothermal, PGE Kejar Target Kapasitas 1 GW (2024/04/23)",positif
+Jokowi: Putusan MK Menyatakan Politisasi Bansos & Curang Tak Terbukti (2024/04/23),netral
+"Rupiah Loyo Saat Prabowo Dipastikan Jadi Presiden, Dolar Kini Rp16.242 (2024/04/23)",negatif
+"Video: Q1-2024, BCA Raup Laba Bersih Rp 12,9 Triliun, Naik 11,7% (YoY) (2024/04/23)",positif
+"Tensi Geopolitik Timur Tengah Turun, Harga Minyak Bergerak Variatif (2024/04/23)",netral
+"Video: Rupiah Masih di Atas Rp16.000/USD, BI Rate Bakal Dikerek Naik? (2024/04/23)",negatif
+"IHSG Ngegas 1,2%, 5 Saham Big Cap Ini Jadi Pendorongnya (2024/04/23)",positif
+Astra Sedaya Finance Tunjuk Presiden Direktur Baru (2024/04/23),netral
+"Breaking: Prabowo Dipastikan Presiden, IHSG Melesat 1% (2024/04/23)",positif
+Laba Emiten Data Center Salim (DCII) Naik 40% Jadi Rp 514 M di 2023 (2024/04/23),positif
+"MK Tolak Seluruh Gugatan Pilpres 2024, IHSG Dibuka Ngegas (2024/04/23)",positif
+"Sentimen Putusan MK Gagal Angkat Rupiah, Dolar Tembus Rp16.235/US$ (2024/04/23)",negatif
+Kisah Robohnya Bisnis Pendiri Astra Hingga Terpaksa Obral Saham (2024/04/23),netral
+Medco Energi (MEDC) Divestasi Seluruh Kepemilikan Saham OVBV (2024/04/23),netral
+"Ada Kabar Positif dari Amerika Serikat, Bursa Asia Kompak Menguat (2024/04/23)",positif
+"3 Faktor Ini Bikin Holder Kripto Sumringah, Apa Saja? (2024/04/23)",positif
+"Harga Bergerak Liar, Bursa Pelototi Saham 3 Emiten Ini (2024/04/23)",netral
+Pantau Pergerakan 3 Saham yang Berpotensi Cuan Hari Ini (2024/04/23),positif
+"Harta 5 Orang Terkaya RI Kompak Anjlok, Ada yang Lenyap Rp36 T Sehari (2024/04/23)",negatif
+"IHSG Melemah di Awal Pekan, Asing Kembali Buang Saham Blue Chip (2024/04/23)",negatif
+"Paylater Tumbuh Pesat, BCA Ungkap Risiko Kredit Tahun Ini (2024/04/23)",negatif
+"IHSG Merah Kala Sidang MK, Asing Diam-Diam Borong 10 Saham Ini (2024/04/23)",negatif
+Begini Potensi Gerak Rupiah Usai Sidang MK & Surplus Neraca Dagang (2024/04/23),netral
+Airlangga Ungkap Prabowo-Gibran Tak Punya Tim Transisi (2024/04/23),netral
+"Selain Bagi Dividen, Emiten Prochiz (KEJU) Punya Dirut dan Komut Baru (2024/04/24)",netral
+"Saham Tesla Naik 12%, Wall Street Dibuka Hijau! (2024/04/24)",positif
+Menthobi Karyatama Raya Bagi Dividen Rp 12 Miliar (2024/04/24),positif
+"Video: Rupiah Melemah, Pengusaha Bisa Lemas? (2024/04/24)",negatif
+"Ivan Cahyadi Jadi Dirut Baru HM Sampoerna (HMSP), Ini Sosoknya (2024/04/24)",netral
+"Anak Dato Sri Tahir Diam-Diam Genggam 7,85% Saham EURO (2024/04/24)",netral
+"BI Rate Naik Jadi 6,25%, Bankir Teriak Soal Kredit & Likuiditas (2024/04/24)",positif
+"Video: BI Rate Naik Jadi 6,25%, Sektor Ini Perlu Antisipasi? (2024/04/24)",netral
+"Tok! United Tractors (UNTR) Bagi Dividen Rp 5,7 T Atau Rp 1.569/Saham (2024/04/24)",positif
+Mohon Maaf! PTPP Tidak Bagi Dividen Tahun Ini (2024/04/24),netral
+"PTPP Ganti Komisaris & Direksi, Ini Susunan Terbaru (2024/04/24)",netral
+"Joss! Pertahankan Daya Saing, UNVR Pimpin 80% Kategori Pasar (2024/04/24)",positif
+"Dolar Masih Rp 16.000, Bos HRTA Beberkan Harga Emas Bisa Tembus Segini (2024/04/24)",positif
+"Eksportir Simpan Dolar di Luar Negeri Saat Rupiah Terpuruk, Kenapa? (2024/04/24)",negatif
+Catat! Besok Ada Agenda Penting Buat BTN (BBTN) (2024/04/24),netral
+"Video: IHSG Ditutup Menguat Hingga BI Rate Jadi 6,25% (2024/04/24)",positif
+"UNVR Catat Laba Bersih Rp 1,4 T, Margin Kotor & Volume Meningkat (2024/04/24)",positif
+"BI Rate Naik Jadi 6,25%, BRI Yakin Pertumbuhan Kredit Masih Terjaga (2024/04/24)",positif
+"Video: Prabowo-Gibran Pemimpin Terpilih, Sektor Ini Bakal Ngegas (2024/04/24)",positif
+BI: Tingkat Kepatuhan Eksportir Simpan Dolar di RI Sudah Tinggi (2024/04/24),positif
+"BUMI Bukukan Laba Bersih US$ 67,6 Juta di Kuartal I-2024 (2024/04/24)",positif
+Ini Saham yang Bikin IHSG Naik Nyaris 1% Hari Ini (2024/04/24),positif
+"Video: Dolar AS Masih Rp 16.000, Pengusaha Harap Ini ke Prabowo-Gibran (2024/04/24)",netral
+"Suku Bunga BI Naik Jadi 6,25%, IHSG Tetap Finish Semringah (2024/04/24)",positif
+Menkes Budi Gunadi Sadikin Ungkap Kesamaan Prabowo dan Jokowi (2024/04/24),netral
+Pengumuman! Besok Tanggal Penting Buat BRI (BBRI) (2024/04/24),netral
+"Keputusan Lengkap BI Rate Naik Jadi 6,25%, Simak! (2024/04/24)",netral
+"BI Rate Naik Jadi 6,25%, Ini Komentar Bankir (2024/04/24)",netral
+"Pendapatan Turun tapi Laba Bumi Resources (BUMI) Naik 12,28% (2024/04/24)",positif
+"BI Rate Naik Jadi 6,25%, Dolar Ditutup Turun ke Rp16.150 Hari Ini (2024/04/24)",netral
+"Kartu ATM Makin Ditinggalkan, Ini Sistem Pembayaran Primadona Warga RI (2024/04/24)",netral
+Video: BI Siapkan Strategi Tambahan Perkuat Stabilitas Ekonomi Makro (2024/04/24),netral
+"BI Pede Rupiah Perkasa, Dolar Kini Rp16.200 & Akhir Tahun Rp15.800 (2024/04/24)",positif
+BI Lakukan 4 Langkah Hadapi Gonjang-Ganjing Global (2024/04/24),netral
+"Video: Dana Asing Kabur & Rupiah Tersungkur, Pasar Keuangan RI Aman? (2024/04/24)",negatif
+Berubah! Ini Ramalan Terbaru BI Soal Situasi AS (2024/04/24),netral
+"Tak Gentar BI Rate Naik, IHSG Masih Hijau (2024/04/24)",positif
+"Video: BI Rate Naik, IHSG & Rupiah Semringah (2024/04/24)",positif
+"BI Rate Naik, Begini Hasil Stress Test Perbankan (2024/04/24)",netral
+"Naikkan Suku Bunga Jadi 6,25%, BI Siapkan 7 'Strategi Tambahan' (2024/04/24)",netral
+"Rupiah Menguat Pasca BI Rate Naik, Dolar Jadi Rp16.140 (2024/04/24)",positif
+"Video: BI Resmi Naikkan Suku Bunga Jadi 6,25 % (2024/04/24)",netral
+"Dolar Rp16.200 BI Rate Naik Jadi 6,25%, Ini Alasannya! (2024/04/24)",netral
+Bos BI Akui Posisi Rupiah Terhadap Dolar Lebih Baik dari Won & Baht! (2024/04/24),positif
+"Tok! BI Rate Naik Menjadi 6,25% (2024/04/24)",netral
+"Kredit Bank Ngebut! Maret 2024 Tumbuh 12,4% (2024/04/24)",positif
+BI Jamin Punya Modal Besar Amankan Rupiah dari Amukan Dolar (2024/04/24),positif
+"Perang Iran-Israel & AS Bikin Was-was, Ini Ramalan BI Soal Ekonomi RI (2024/04/24)",netral
+AS & Perang Iran-Israel Bikin Bos BI Makin Was-was! (2024/04/24),negatif
+"Video: Jika Tak Kerek Suku Bunga, Apa Amunisi BI Stabilkan Rupiah? (2024/04/24)",netral
+"Video: Rupiah Masih Tertekan, Mana Peran Devisa Hasil Ekspor? (2024/04/24)",negatif
+"Menjabat 26 Tahun, Komisaris Bank Neo (BBYB) Mundur (2024/04/24)",netral
+"Saham Prajogo Pangestu Berkurang 858 Juta di TPIA, Dijual Lagi? (2024/04/24)",netral
+"Sah! Jadi Presiden & Wapres RI, Segini Total Harta Prabowo & Gibran (2024/04/24)",netral
+"LAR Turun, Buah Komitmen Perbaikan Fundamental KB Bank (2024/04/24)",netral
+"Nasabah Prioritas Bank Mandiri Minimal Saldo Rp1 M, Dapat Apa? (2024/04/24)",netral
+Begini Nasib Saham Nikel Hari Ini Setelah Prabowo Resmi Jadi Presiden (2024/04/24),netral
+Cara Menaikkan Limit Kartu Kredit BCA Dengan Cepat (2024/04/24),netral
+"Kekayaan Elon Musk Terus Merosot, Kini Tinggal Rp2.872 Triliun (2024/04/24)",negatif
+Regulator AS Bakal Tolak ETF Ethereum? Kripto Mulai Berguguran (2024/04/24),negatif
+"Prabowo-Gibran Sah Presiden-Wapres Terpilih, IHSG Langsung Terbang! (2024/04/24)",positif
+"Prabowo-Gibran Resmi Jadi Presiden-Wapres, Saham Ini Kompak Hijau (2024/04/24)",positif
+"Prabowo Presiden RI Terpilih Rupiah Perkasa, Dolar Jadi Rp16.100! (2024/04/24)",positif
+Top! Rukun Raharja Cetak Laba US$ 8 Juta di Kuartal I-2024 (2024/04/24),positif
+"Selain Bagi Dividen, Sampoerna (HMSP) Punya Dirut Baru! Ini Sosoknya (2024/04/24)",positif
+"Prabowo Gibran Ditetapkan Hari Ini, Cek 17 Saham Pendukungnya (2024/04/24)",netral
+"Prabowo-Gibran Jelang Ditetapkan KPU, Dolar Turun ke Rp16.155 (2024/04/24)",netral
+"Aktivitas Bisnis AS Melambat, Harga Minyak Mentah Mendingin! (2024/04/24)",negatif
+"Prabowo Segera Ditetapkan Jadi Presiden Oleh KPU, IHSG Melesat 1% (2024/04/24)",positif
+"Video: Amit-amit BI Rate Naik, Ini Efeknya Ke Rupiah Hingga Pasar SBN? (2024/04/24)",netral
+"Profil Mooryati Soedibyo, Pendiri Mustika Ratu Sang Empu Jamu RI (2024/04/24)",netral
+"Punya Presdir Baru, HMSP Makin Optimis Dorong Pertumbuhan di 2024 (2024/04/24)",positif
+"IHSG Bergairah Lagi, 5 Saham Big Cap Ini Jadi Penopangnya (2024/04/24)",positif
+"Video: Jelang Penetapan Kemenangan Prabowo-Gibran, IHSG Menghijau (2024/04/24)",positif
+"Eks Direktur Dapen PTBA Ditahan Kasus Korupsi, Ini Modusnya (2024/04/24)",negatif
+IHSG Menguat Jelang Penetapan Prabowo-Gibran Menang Oleh KPU (2024/04/24),positif
+"Video: Rupiah Masih di Atas Rp16.000/USD, BI Rate Bakal Naik? (2024/04/24)",netral
+"Harga Saham Amblas 35,69%, Bursa Pantau Ketat Saham SKRN (2024/04/24)",negatif
+"Jelang Pengumuman BI Rate, Rupiah Dibuka Menguat ke Rp16.160/ US$ (2024/04/24)",positif
+Cek Rekomendasi 3 Saham yang Berpotensi Cuan Hari Ini (2024/04/24),netral
+Warning Pak Jokowi: Ekonomi Tak Akan Tumbuh 7% Jika BI Rate Naik Tahun (2024/04/24),netral
+"Tersulut Sentimen Positif Wall Street, Bursa Asia Kompak Menguat (2024/04/24)",positif
+Tata Kelola Dana Pensiun Bukit Asam Terus Diperkuat (2024/04/24),positif
+"Kabar Duka, Pendiri Mustika Ratu Mooryati Soedibyo Meninggal Dunia (2024/04/24)",negatif
+"Kisah Kelam Investasi Lo Kheng Hong, Ternyata Pernah Rugi 85% (2024/04/24)",netral
+"Investor Pede Pasok Dolar Usai Sidang MK, BI Rate Tak Perlu Naik (2024/04/24)",netral
+Asing Terciduk Borong 10 Saham Ini Kala IHSG Bangkit (2024/04/24),positif
+Cerita 2 Bandara Tersibuk Dunia Cuci Bersih Miliaran Dolar Uang Haram (2024/04/24),negatif
+"Rugi Rp 271 T, Kejagung Buru Barang Bukti Dampak Ekologis Kasus Timah (2024/04/24)",negatif
+"Eksportir Masih Parkir Dolar di LN Buat Rupiah Loyo, Sanksi Tak Tegas? (2024/04/24)",negatif
+Bank Muamalat Beberkan Update Terbaru Soal Merger dengan BTN Syariah (2024/04/24),netral
+Asing Diam-DIam Lego 10 Saham Bluechip Kala IHSG Bangkit (2024/04/24),positif
+"Pasar Fokus Nantikan Suku Bunga BI, Mampukah Rupiah Menguat? (2024/04/24)",netral
+"BI Rate Naik Saat Masyarakat Tahan Belanja, Apa Jadinya Ekonomi RI? (2024/04/24)",netral
+Awas! BI Rate Naik Belum Tentu Rupiah Menguat (2024/04/24),netral
+"BI Rate 6,25%, Bankir Jawab Bunga Kredit Naik atau Tidak (2024/04/25)",netral
+"Dampak Pilpres hingga Geopolitik, Laba BFI Finance Anjlok 28,9% (2024/04/25)",negatif
+"Bos BTN: Kondisi Gonjang-ganjing, Bankir Waras Jaga Pertumbuhan Kredit (2024/04/25)",netral
+"BI Rate Naik, Bunga KPR BTN Bagaimana? (2024/04/25)",netral
+WIKA Genjot Pembangunan Jalan Tol Serang-Panimbang Seksi 3 (2024/04/25),positif
+"BI Rate Naik, Begini Dampaknya ke Kredit Motor dan Mobil (2024/04/25)",netral
+"Mau Merger dengan Bank Muamalat, Laba BTN Syariah Lompat 56,1% (2024/04/25)",positif
+"Video: BI Rate Naik, IHSG & Rupiah Kembali Rontok (2024/04/25)",negatif
+Emiten Cinta Laura Bangun Pabrik Biomassa di Lokasi Ini (2024/04/25),netral
+"Dolar Rp 16.000, KPR di BTN (BBTN) Masih Tumbuh Dua Digit (2024/04/25)",positif
+"BTN (BBTN) Cetak Laba Rp 860 M pada Kuartal I 2024, Naik 7,4% (2024/04/25)",positif
+"Stok Utang Melonjak Saat Prabowo Presiden, Bayarnya Gimana? (2024/04/25)",negatif
+"Video: Siap Melantai di Bursa, SOLA Bakal Ekspansi ke EBT (2024/04/25)",netral
+"BI Rate 6,25%, Pejuang KPR Siap-Siap Cicilan Naik Segini (2024/04/25)",netral
+"IHSG Ditutup Merah H+1 BI Rate Naik, Ini Penyebabnya (2024/04/25)",negatif
+"Sehari Setelah BI Rate Naik, IHSG Ditutup Turun 0,27% (2024/04/25)",negatif
+Duh! Bos BRI Sebut Risiko Kuartal II Tahun Ini Terbilang Tinggi (2024/04/25),negatif
+"Dolar Rp16.200 Lagi! BI Rate 6,25% Bukan Obat Mujarab Rupiah (2024/04/25)",negatif
+Dharma Polimetal (DRMA) Angkat Direktur Baru & Bagi Dividen Rp 171 M (2024/04/25),positif
+"Video: BI Rate Naik Jadi 6,25%, Ini Efeknya Ke Bisnis Multifinance? (2024/04/25)",netral
+"Rupiah Melemah, Dolar Ditutup di Level Rp16.185 Hari Ini (2024/04/25)",negatif
+UOB Indonesia Akui Pelemahan Rupiah Bikin Bisnis Welma Tertekan (2024/04/25),negatif
+"Kantor Sri Mulyani Komentari BI Rate Naik Jadi 6,25%, Simak! (2024/04/25)",netral
+"Video: Efek Ngeri Rupiah Anjlok, RI Harus Waspada (2024/04/25)",negatif
+"Toba Pulp Lestari (INRU) Umumkan Pengendali Baru, Ini Namanya (2024/04/25)",netral
+Bos Unilever (UNVR) Buka Suara Soal Pelemahan Rupiah ke Bisnisnya (2024/04/25),netral
+Presiden Direktur PSSI Iriawan Ibarat Mundur dari Jabatannya (2024/04/25),netral
+"Dolar Tembus Rp16.200, Begini Kondisi Utang Pemerintah Rp8.319 T (2024/04/25)",negatif
+Emiten Tambang Salim (AMMN) & Indosat (ISAT) Jadi Penghuni Baru LQ45 (2024/04/25),netral
+Menteri Erick Bawa Oleh-Oleh Kerja Sama dengan Qatar Airways dan QNB (2024/04/25),positif
+"Sepanjang Tahun Ini Lebih Cuan Mana, BBRI atau Bitcoin? (2024/04/25)",netral
+"Catat Laba Rp 15,98 T, BRI Fokus ke Pemberdayaan UMKM (2024/04/25)",positif
+"Video: BI Naikkan Suku Bunga, Badai PHK di Depan Mata (2024/04/25)",negatif
+Erwan lrawan Noer Mundur dari Kursi DireksiDepo Bangunan(DEPO) (2024/04/25),netral
+"Masih Jalankan Proyek di IKN, PTPP Amankan Rp 4,9 T Proyek Baru (2024/04/25)",positif
+"Video: RS Mengeluh, Rupiah Melemah Bikin Harga Obat Hingga Alkes Naik (2024/04/25)",netral
+"Vidoe: Boeing Makin Babak Belur, Catat Rugi Rp 5,7 T di Q1-2024 (2024/04/25)",negatif
+Bos BRI Buka-Bukaan Soal Strategi Menghadapi Suku Bunga Tinggi (2024/04/25),netral
+"ADB Kucurkan US$23,6 M ke Asia Pasifik, Fokus Atasi Krisis Iklim (2024/04/25)",positif
+"Harga Komoditas Tambang Global Loyo, Saham Tambang RI Merana (2024/04/25)",negatif
+"Melesat! Uang Beredar di Indonesia Capai Rp8.888,4 Triliun (2024/04/25)",positif
+BI Kaji Eksportir Selain SDA Wajib Simpan Dolar AS di Dalam Negeri (2024/04/25),netral
+"Kena Boikot Israel, Rugi Pizza Hut Bengkak 310,23% (2024/04/25)",negatif
+"Harga Minyak Terus Mendingin, Efek AS Tunda Turunkan Suku Bunga? (2024/04/25)",negatif
+Jenis dan Limit Kartu Kredit BCA (2024/04/25),netral
+"IHSG Balik Lesu, Saham Bank Jumbo Jadi Biang Kerok (2024/04/25)",negatif
+"Permodalan Kuat, BRI Pede Salurkan Kredit di Era Suku Bunga Tinggi (2024/04/25)",positif
+Jurus PGN Perluas Pemanfaatan Gas & Perkuat Ketahanan Energi Nasional (2024/04/25),positif
+"Video: BI Rate Naik, IHSG Malah Merosot ke Zona Merah (2024/04/25)",negatif
+3 Strategi Prioritas PGN Optimalkan Bisnis Gas Di Masa Transisi Energi (2024/04/25),netral
+"Laba BRI Kalahkan BCA, Ini Data Terbarunya (2024/04/25)",netral
+"Bos BI Ramal Rupiah Akan Menguat Rp15.800, Kapan Nih? (2024/04/25)",positif
+"Dolar Balik Lagi ke Rp16.200, Kenaikan BI Rate Gak Ampuh? (2024/04/25)",negatif
+"Video: Q1-2024, BRI Sukses Cetak Laba Rp15,98 Triliun (2024/04/25)",positif
+"Penyaluran Kredit BRI Naik 11% Jadi Rp 1.308 T, 85% Untuk UMKM (2024/04/25)",positif
+NYSE Kaji Minat Perdagangan Saham 24 Jam 7 Hari Seminggu (2024/04/25),netral
+"Aset BRI Tembus 1.989 T, Jadi Bank Terbesar Kedua di RI (2024/04/25)",positif
+"Breaking! BI Rate Naik, Dolar AS Tembus Rp16.200 Lagi (2024/04/25)",negatif
+"BI Rate Naik, IHSG Dibuka Longsor 0,41% ke Bawah 7.200 (2024/04/25)",negatif
+"BI Rate Naik, Jokowi Tetap Pede Ekonomi Tumbuh Ditopang Investasi (2024/04/25)",netral
+"Reli 3 Hari Berakhir, Bursa Asia Pasifik Dibuka Terkoreksi (2024/04/25)",negatif
+"BI Rate Naik Jadi 6,25%, Obligasi Bakal Bersinar (2024/04/25)",positif
+"Penambang Bitcoin Makin Sulit Dapat Cuan, Kripto Ambruk Hari Ini (2024/04/25)",negatif
+Hartadinata Abadi (HRTA) Sepakat Bagikan Dividen Rp15 Per Saham (2024/04/25),positif
+Airlangga Buka Suara Suku Bunga BI Rate Naik: Rupiah Bakal Menguat! (2024/04/25),positif
+Asing Kompak Borong 10 Saham Ini Kala IHSG Bergairah (2024/04/25),positif
+"BI Naikkan Suku Bunga Jadi 6,25%, Penguatan Rupiah Berlanjut? (2024/04/25)",netral
+Pantau Pergerakan 3 Saham yang Berpotensi Cuan Hari Ini (2024/04/25),netral
+"BUMN Evaluasi Konsolidasi PTPP-WIKA, Begini Nasibnya (2024/04/25)",netral
+"IHSG Bergairah Lagi, 10 Saham Ini Malah Dibuang Asing (2024/04/25)",positif
+"Ikut Jejak Induk, Unilever (UNVR) Bakal Spin Off Usaha Es Krim di RI? (2024/04/25)",netral
+"BRI Cetak Laba Rp15,98 T di Kuartal I-2024 (2024/04/25)",positif
+"Kinerja Keuangan Lampaui Ekspektasi, Wall Street Dibuka Hijau! (2024/04/26)",positif
+"Asing Kabur Rp29,7 T Tinggalkan RI, Ini Penjelasan Sri Mulyani! (2024/04/26)",negatif
+"APBN Surplus, Sri Mulyani Tetap Tarik Utang Baru Rp104,7 T (2024/04/26)",netral
+"Jelang Bagi-Bagi Dividen, Direksi & Komisaris BJB Borong Saham Rp1,7 M (2024/04/26)",positif
+"Bos ACES Jual Saham 400.000 Lembar, Buat Apa? (2024/04/26)",netral
+Video: Meneropong Prospek Bisnis Emiten Limbah Pasca-IPO (2024/04/26),netral
+"BNI Gandeng Telkomsel, Kerja Sama Ini (2024/04/26)",netral
+"Video: Kinerja PALM Merosot & Saham Ambruk 30%, Masih Layak Investasi? (2024/04/26)",negatif
+"Video: Jelang Akhir Pekan, IHSG Ditutup Ambles Hampir 2% (2024/04/26)",negatif
+"IHSG Ambruk Cetak Rekor Terendah Sejak Akhir 2023, Ini Penyebabnya! (2024/04/26)",negatif
+"Video: Harga Nikel Terbang, Penambang Kipas-kipas Dolar? (2024/04/26)",netral
+"TPMA Bagi Dividen Rp 196,7 Miliar dan Mau Rights Issue 1,13 Miliar (2024/04/26)",positif
+"IHSG Ambruk 1,67%, Sentuh Level Terendah Sejak 29 November 2023 (2024/04/26)",negatif
+"BI Rate Naik, Bos Multifinance Ungkap Nasib Bunga Kredit Motor & Mobil (2024/04/26)",negatif
+"IHSG Ambles 1,3%, Semua Sektor Kompak Turun (2024/04/26)",negatif
+"Rupiah Nelangsa di Akhir Pekan, Dolar Ditutup di Rp 16.205 (2024/04/26)",negatif
+"Breaking News! IHSG Anjlok 1,36% ke Level 7.058,27 (2024/04/26)",negatif
+5 Sosok Raja Batu Bara RI (2024/04/26),netral
+"Cimory Bagi Dividen Rp 714,12 M dan Angkat Bos Baru (2024/04/26)",positif
+Video: Ekonom Ungkap Ancaman Dibalik Rupiah Melemah & Kenaikan BI Rate (2024/04/26),negatif
+"Yen Ambruk Lagi ke Level Terendah, Ini Langkah Menkeu Jepang (2024/04/26)",netral
+"Resmi! Anak Usaha Emtek Caplok 51% Saham CASS, Segini Nilainya (2024/04/26)",netral
+"Bank Besar AS dan Rusia Panas, Aset JPMorgan Rp 7 T Bakal Disita (2024/04/26)",negatif
+"Bisnis Solid, Laba Bank Raya (AGRO) Tumbuh Double Digit (2024/04/26)",positif
+"Hanwha Mau Masuk NOBU Jelang Merger dengan BABP, Ini Kata OJK (2024/04/26)",netral
+Video: Efek Ini Yang Ditakutkan Bisnis Properti Saat Suku Bunga Naik (2024/04/26),netral
+"Beri Kontribusi Besar untuk Pajak Negara, BUMI Raih Penghargaan Ini (2024/04/26)",positif
+"Ada Investor Besar Mau Masuk Bank Nobu, Apa Kabar Bank MNC? (2024/04/26)",netral
+"Video: BI Rate Tak Selalu Jadi Obat Rupiah, Ini Buktinya! (2024/04/26)",netral
+"BI Kerek Suku Bunga, BRI Tetap Optimis Kredit Tumbuh 12% (2024/04/26)",netral
+"Emiten Aguan PIK 2 (PANI) Kantongi Pra-penjualan Rp 1,5 T (2024/04/26)",positif
+"Video: Setoran Negara Anjlok, APBN Masih Surplus Tipis Rp8,1 Triliun (2024/04/26)",netral
+"PTPP Amankan Total Kontrak Rp11,23 T dari Proyek IKN (2024/04/26)",positif
+Video: Sri Mulyani 'Warning' Efek Eskalasi Timur Tengah ke Ekonomi RI (2024/04/26),negatif
+"Biaya Dana Naik, Bankir Revisi Target Kredit Tahun Ini (2024/04/26)",negatif
+"Bos Prudential Ngomongin Soal Kebangkitan Unitlink, Ini Katanya (2024/04/26)",netral
+"Regulator AS (SEC) Digugat, Investor Ramai-Ramai Serbu Kripto? (2024/04/26)",negatif
+"Harga Minyak Mentah Naik Lagi, Brent Dekati US$ 90 per barel! (2024/04/26)",positif
+"BBCA Tumbang, BREN Jadi Emiten Kapitalisasi Pasar Nomor 1 di RI (2024/04/26)",netral
+Bos XL Axiata Bocorin Update Terbaru Soal Merger dengan Smartfren (2024/04/26),netral
+"IHSG Kembali Lesu, Saham Perbankan Jumbo Jadi Pemberatnya Lagi (2024/04/26)",negatif
+Kawasan Milik 'Sang Naga' Ini Jadi Proyek Unggulan Jokowi (2024/04/26),positif
+"Video: BI Rate Naik Tapi Rupiah Masih Rp16.200/USD, Apa Yang Terjadi? (2024/04/26)",netral
+"Bungkam Korsel, Market Value Timnas Indonesia U-23 Cuma Segini (2024/04/26)",netral
+"Pegadaian Catat Laba Rp 1,5 T di Kuartal-I 2024, Ini Penopangnya (2024/04/26)",positif
+"Rupiah Tetap Loyo Meski Suku Bunga Acuan Naik, BI Buka Suara! (2024/04/26)",negatif
+"Video: BI Rate Dinaikkan, Seberapa Efektif Perkuat Rupiah? (2024/04/26)",netral
+Bos BTN Usul Masyarakat Gaji Segini Dapat Subsidi KPR (2024/04/26),netral
+"Breaking! Rupiah Masih Loyo, Dolar AS Tembus Rp16.200 Lagi (2024/04/26)",negatif
+"IHSG Dibuka Merana Lagi, Bakal Sad Weekend? (2024/04/26)",negatif
+Tak Cuma Politik! Surya Paloh & Prabowo Bahas Dunia & Nasib Rupiah (2024/04/26),netral
+Kabar Terbaru Merger BTN Syariah dan Bank Muamalat (2024/04/26),netral
+"Tak Gentar Lawan AS, Bursa Asia Kompak Hijau! (2024/04/26)",positif
+"Harga Bergerak Tak Wajar, BEI Pantau Ketat Saham MHKI dan MPMX (2024/04/26)",netral
+Prudential Catat Pendapatan Premi Rp 22 T di 2023 (2024/04/26),positif
+Pantau Pergerakan 3 Saham yang Berpotensi Cuan Hari Ini (2024/04/26),netral
+Asing Terciduk Diam-Diam Borong 10 Saham Ini Kala IHSG Merah (2024/04/26),netral
+"Suku Bunga Acuan Naik, BI Disebut Luncurkan 'Senjata' Terakhir (2024/04/26)",netral
+"BI Rate Naik, Kabar Baik Buat Pemilik KPR Ini (2024/04/26)",positif
+Saham Blue Chip RI Kompak Dibuang Asing Kala IHSG Merah (2024/04/26),negatif
+"Banyak Tekanan Eksternal Mencuat Lagi, Kuatkah Rupiah Hari Ini? (2024/04/26)",negatif
+"Dolar Sudah Tembus Rp16.200, Krismon 1998 Bisa Terulang? (2024/04/26)",negatif
+Sinyal Ekonomi Sulit Pasca Kenaikan BI Rate (2024/04/26),negatif
+"Video: Jika Rupiah Terus Melemah, Harga Rumah Terancam Naik 20-30% (2024/04/27)",negatif
+"Jika Rupiah Terus Melemah, Dampak Buruk Ini Ancam Industri Kesehatan (2024/04/27)",negatif
+"Asisten Rumah Tangga Borong Saham Pakai Tabungan, Hasilnya Tak Terduga (2024/04/27)",netral
+"Harta Kekayaan 7 Presiden Indonesia, Siapa Paling Kaya? (2024/04/27)",netral
+"Video: Siap Melantai di Bursa, SOLA Bakal Ekspansi ke EBT (2024/04/27)",netral
+"Tersangka Kasus Korupsi Timah, Ini Profil Pemilik Sriwijaya Air (2024/04/27)",netral
+"Tuntas Xponent Money 20/20 Asia, MCI Siap Tembus Pasar Regional-Global (2024/04/27)",positif
+"Bos BCA Buka-Bukaan Alasan Rupiah Jeblok, Bukan Iran-Israel (2024/04/27)",netral
+"Video: BI Rate Sudah Naik, Kapan Rupiah Bisa ke Bawah Rp16.000/USD? (2024/04/27)",netral
+"17 Saham Pendukung Prabowo-Gibran, Ini Daftarnya (2024/04/27)",netral
+"Jika Rupiah Masih di Atas Rp16.000/USD, Ini Efeknya ke Multifinance (2024/04/27)",netral
+"Sosok Raja Hotel Dunia, Balas Dendam Usai Terusir dari RI (2024/04/27)",netral
+"Segini Modal Buka Alfamart Sendiri, Cek Syaratnya! (2024/04/27)",netral
+"Video: Harga Energi Naik Bebani Biaya Produksi, Penambang Siap Hadapi? (2024/04/28)",netral
+"Video: Harga BBM & Inflasi Terancam Naik Efek Perang, Ini Bahayanya! (2024/04/28)",negatif
+"Video: Suku Bunga Naik Bikin Beban Peritel Bertambah, Seberapa Buruk? (2024/04/28)",negatif
+Video: PR BI & Pemerintah Agar BI Rate Efektif Perkuat Rupiah (2024/04/28),netral
+"Video: Suku Bunga Tinggi, Ancaman Atau Berkah? (2024/04/28)",netral
+"Pemilik Sriwijaya Air Tersangka Korupsi Timah, Begini Sepak Terjangnya (2024/04/28)",netral
+"Mayoritas Saham AS Lampaui Ekspektasi, Wall Street Dibuka Kuat (2024/04/29)",positif
+"Efek Ramadan, Penjualan Emiten Bir (MLBI) Jeblok 10,69% (2024/04/29)",negatif
+"Video: RKAB Tambang Nikel Banyak Tertahan, Ini Kata ESDM (2024/04/29)",netral
+"Lepas Bisnis Logistics, GoTo Pastikan GoSend Tetap Beroperasi (2024/04/29)",netral
+"Video: BNI Cetak Laba Bersih Rp 5,33 T di QI-2024 (2024/04/29)",positif
+"Astra International (ASII) Cetak Laba Rp7,46 Triliun di Kuartal-I 2024 (2024/04/29)",positif
+"Catat Rugi Bersih Terendah, GoTo Cetak Rekor Baru di Q1-2024 (2024/04/29)",positif
+"Pendapatan AVIA Kuartal-I 2024 Naik 6,9% Jadi Rp 1,9 Triliun (2024/04/29)",positif
+GOTO Catat Rugi Rp 937 Miliar di Kuartal I-2024 (2024/04/29),negatif
+"BNI Kantongi DPK Rp 780,23 T per Maret 2024, Dana Murah Mendominasi (2024/04/29)",positif
+"Provinsi dengan Kredit Macet Pinjol Tertinggi, Ini yang Paling Parah (2024/04/29)",netral
+"Viral! Jam Operasional Warung Madura Dibatasi, Boss MPStore Buka Suara (2024/04/29)",netral
+"Kredit BNI Hingga Maret 2024 Tembus Rp 695,16 T (2024/04/29)",positif
+Bank Jatim (BJTM) Ungkap Perkembangan KUB dengan Bank Banten (BEKS) (2024/04/29),netral
+"Breaking News! BNI Cetak Laba Rp 5,33 T di Kuartal I-2024, Naik 2% (2024/04/29)",positif
+"Video: IHSG Melesat 1,7% Hingga Realisasi Investasi Tumbuh 22,1% (2024/04/29)",positif
+"IHSG Ngacir 1,7%, 5 Saham Ini Jadi Penggerak Utamanya (2024/04/29)",positif
+Bursa Australia Kemungkinan Bakal Setujui ETF Bitcoin Akhir Tahun Ini (2024/04/29),positif
+"Bank Jatim (BJTM) Cetak Laba Rp 310 M di Kuartal-I 2024, Naik 1,52% (2024/04/29)",positif
+"Rupiah Tiga Hari Beruntun Keok, Dolar Tembus Rp16.250/US$! (2024/04/29)",negatif
+"Investor Dimanja, Hilirisasi Nikel Disebut Gagal Sejahterakan Rakyat (2024/04/29)",negatif
+"IHSG Anjlok, Sebulan Asing Bawa Kabur Rp 20 T dari Pasar Modal RI (2024/04/29)",negatif
+"Harga Tembaga Naik 20% Tahun Ini, Tembus US$ 10.000 Per Ton (2024/04/29)",positif
+"A Sampai Z, Begini Rangkaian World Water Forum ke-10 di Bali (2024/04/29)",netral
+"Bahlil: Wings Group, Djarum & Sukanto Tanoto Investasi di IKN di 2024 (2024/04/29)",netral
+"Tekan Beban, Bank Banten (BEKS) Balik Rugi Jadi Laba Rp2,06 M (2024/04/29)",positif
+"Kuartal I, Laba Astra Agro (AALI) Naik Tipis 2,59% Jadi Rp 230,5 M (2024/04/29)",positif
+Laba Petrosea (PTRO) Ambles 94% Jadi US$ 163.000 di Kuartal-I 2024 (2024/04/29),negatif
+"Rupiah Makin Gak Karuan, Dolar Naik ke Rp16.255 Pukul 14.00 Hari Ini (2024/04/29)",negatif
+Video: Saran Faisal Basri ke BI Agar Rupiah Tak Anjlok Terus (2024/04/29),netral
+"Siap-Siap, Besok Bakal Ada Pengumuman Penting dari Astra (ASII) (2024/04/29)",netral
+"Terbaru! Ini Daftar Suku Bunga Deposito BCA, BRI, Mandiri, & BNI (2024/04/29)",netral
+"Harga Batu Bara Sedang Lesu, Tapi Kok Sahamnya Malah Ngacir? (2024/04/29)",positif
+Daftar 23 Pengusaha RI yang Sumbang Rp 23 Miliar Untuk Timnas U-23 (2024/04/29),netral
+"Laba XL Axiata (EXCL) Terbang 168,34%, Ini Sumber Pendapatannya (2024/04/29)",positif
+"Presiden Komisaris ITSEC Asia (CYBR) Borong Saham 4,76 Juta Lembar (2024/04/29)",positif
+"Berlaku Tahun Ini, Cek Aturan Debt Collector Pinjol Terbaru (2024/04/29)",netral
+"Ada Transaksi Saham 4,09 Juta Lembar, Bumi Resources (BUMI) Buka Suara (2024/04/29)",netral
+10 Saham Terbesar di Portofolio Warren Buffett (2024/04/29),netral
+"Ada 10 Bank Jatuh, Begini Cara LPS Cairkan Simpanan Nasabah (2024/04/29)",netral
+"Breaking! IHSG Melesat 1%, Kembali ke Level 7.100-an (2024/04/29)",positif
+Hari Ini Bakal Ada Pengumuman Penting dari GOTO (2024/04/29),netral
+"Bank Mega Syariah Bidik DPK Rp11 Triliun, Ini Strateginya (2024/04/29)",netral
+"The Fed Bikin Galau, Harga Minyak Kompak Turun (2024/04/29)",negatif
+"Sosok Crazy Rich Muslim Terkaya Dunia, Ternyata dari Negara Ini (2024/04/29)",negatif
+"IHSG Rebound, 5 Saham Big Cap Ini yang Gendongin (2024/04/29)",positif
+"Kakak Adik Jadi Tersangka Kasus Timah, Ini Sosok Hendry Lie dan Fandy (2024/04/29)",netral
+"IHSG Mulai Bangkit, Naik 0,31%! Investor Mulai Borong Saham Lagi? (2024/04/29)",positif
+"Duh! Rupiah Kembali Melemah, Dolar Naik ke Rp16.230 Hari Ini (2024/04/29)",negatif
+"Rupiah Ambruk Bikin Inflasi Medis, Klaim Asuransi Melonjak (2024/04/29)",negatif
+"Inflasi AS Masih Panas, Bitcoin Turun 0,55% & Ethereum di Zona Hijau (2024/04/29)",netral
+"Bursa Asia Dibuka Bervariasi, Pekan Menegangkan Tunggu The Fed (2024/04/29)",netral
+"Catat, Dua Pekan Ini Ada Cum Date Dividen Rp 9,1 Triliun (2024/04/29)",positif
+"IHSG Kembali ke Level 7.000, Cermati 3 Rekomendasi Saham Ini (2024/04/29)",positif
+Ini Saham Incaran Asing Saat IHSG Kebakaran (2024/04/29),netral
+"BI Rate Naik Jadi 6,25%, Ini Dampaknya ke Cicilan KPR Anda! (2024/04/29)",netral
+"Net Sell Tembus Rp 3,17 T, Asing Ketahuan Jual Saham Ini (2024/04/29)",netral
+"Dukung Timnas U-23, 23 Pengusaha Sumbang Uang Rp 23 Miliar (2024/04/29)",positif
+"Banyak Kabar Genting AS, Dolar Masih Bertahan di Rp 16.000 (2024/04/29)",netral
+"Harga Lagi Rekor, Antam Produksi 166 Kg Emas dalam 3 Bulan (2024/04/30)",positif
+"ASII Akui Serius Garap Kendaraan Listrik, Siap-Siap Rilis Produk Baru (2024/04/30)",positif
+"Video: Rupiah Ambruk Suku Bunga Naik, Pengusaha Makin Tertekan? (2024/04/30)",negatif
+"MIND ID Dorong Anak-Anaknya Adopsi Teknologi, Ini Strateginnya (2024/04/30)",positif
+"Penjualan Turun, Laba Emiten Bus Listrik Bakrie Malah Naik 15,7% (2024/04/30)",positif
+"Kalau Dolar Tembus Rp 17.000, Ini Hasil Stress Test Bank Mandiri (2024/04/30)",netral
+Pemegang Saham Bank Raya (AGRO) Tunjuk Direksi & Komisaris Baru (2024/04/30),netral
+"Garap Bisnis Energi Terbarukan, IBC Gandeng 7 BUMN Ini (2024/04/30)",positif
+Video: Pengusaha Soroti Serapan Naker Tak Seindah Realisasi Investasi (2024/04/30),netral
+"Cuan Emiten Emas Salim & Bakrie Naik 77%, Ini 2 Penyebabnya (2024/04/30)",positif
+"Cetak Kinerja Mengesankan, Bank Raya (AGRO) Pertajam Bisnis Digital (2024/04/30)",positif
+Bank Mandiri (BMRI) Pakai AI Cegah Kredit Macet (2024/04/30),positif
+"Astra International (ASII) Bagi Dividen Tunai Rp 21 T, Ini Tanggalnya (2024/04/30)",positif
+"Rogoh Rp237 M, LPS Bayar Simpanan Nasabah 10 BPR Bangkrut (2024/04/30)",netral
+"IHSG Kembali Gaspol, Rupiah Lanjut Merana (2024/04/30)",netral
+"Video: Beban Bertambah Akibat Suku Bunga Naik, Peritel Berharap Ini! (2024/04/30)",netral
+"Lippo Karawaci (LPKR) Rugi Rp179 M di Kuartal-I 2024, Ini Penyebabnya (2024/04/30)",negatif
+Bank Mandiri Buka Suara Soal Investor Baru BSI (2024/04/30),netral
+"Video: BBRI Punya Fundamental Kuat, Sahamnya Layak Diserok? (2024/04/30)",positif
+"Kapitalisasi Pasar BSI (BRIS) Tembus Rp 121 T, Terbesar ke-13 di BEI (2024/04/30)",positif
+Bankir Ungkap Efek Dolar Perkasa & Suku Bunga Tinggi ke Perbankan (2024/04/30),netral
+Pengelola Starbuck di RI Pangkas Ekspansi Toko Imbas Boikot Israel (2024/04/30),negatif
+"Berkat 5 Saham Big Cap IHSG Balik Ke 7.200-an Lagi, BBRI Juaranya (2024/04/30)",positif
+Top! Begini Kinerja Ciamik Transformasi Digital Mandiri Lewat Livin (2024/04/30),netral
+"Video: Q1-2024, Bank Mandiri Cetak Laba Rp 12,7 Triliun (2024/04/30)",positif
+"Kualitas Kredit Kinclong, NPL Bank Mandiri Paling Rendah di Himbara (2024/04/30)",positif
+"Holding UMi Salurkan Pembiayaan Rp617,9 T per Maret 2024 (2024/04/30)",positif
+"Dana Murah Tebal, Bank Mandiri Tahan Banting Hadapi Gejolak Likuiditas (2024/04/30)",positif
+KPK Cecar Pejabat PT Taspen Soal Investasi Rp 1 Triliun (2024/04/30),negatif
+Video:Nasib Petani Sawit di Tengah Pro-Kontra Pabrik Sawit Asam Tinggi (2024/04/30),netral
+Ini Kata Bos Bank Mandiri (BMRI) Soal Pertumbuhan Ekonomi & Suku Bunga (2024/04/30),positif
+"Top! Kredit Bank Mandiri Naik 19,14%, Tumbuh di Atas Industri (2024/04/30)",positif
+"Dolar AS Sudah Tembus Rp 16.255/US$, Rupiah Keok 4 Hari Beruntun (2024/04/30)",negatif
+BlackRock Ungkap Sosok yang Bakal Jadi Juru Selamat Investasi Dunia (2024/04/30),netral
+"Beban Bunga Melonjak 31,16%, Pendapatan CIMB Niaga (BNGA) Anjlok 3,6% (2024/04/30)",negatif
+IMF Ungkap Penyebab Dolar Tembus Rp 16.200 dan Ramalan Rupiah (2024/04/30),negatif
+"TOBA dan PLN Bikin Perusahaan Patungan, Mau Jual Listrik ke Singapura? (2024/04/30)",positif
+Awas! Ini Kelemahan Kinerja Bank Danamon (BDMN) (2024/04/30),negatif
+"Video: Debitur Cemas Suku Bunga Tinggi, Hambat Penyaluran Kredit Bank? (2024/04/30)",negatif
+"Efek Boikot, Investor AS Gagal Lego Saham Operator Starbucks RI (MAPB) (2024/04/30)",negatif
+Bos Unilever Buka-bukaan Dampak Boikot Produk Israel ke Perusahaan (2024/04/30),netral
+"Suku Bunga Tinggi, Perbankan hingga Pengusaha Hadapi Risiko Likuiditas (2024/04/30)",netral
+"Cek Daftar Lengkap Emiten yang Segera Tebar Dividen, Ada UNTR & HMSP (2024/04/30)",positif
+"""Warning"" IMF Soal Efek Perbedaan Suku Bunga Negara Maju & Berkembang (2024/04/30)",netral
+"Garudafood (GOOD) Setuju Bagikan Dividen Rp331,92 Miliar (2024/04/30)",positif
+"Simak, Investor Kakap Dunia BlackRock Beri Warning Mengerikan (2024/04/30)",negatif
+"BI Rate Naik Jadi 6,25%, BNI Ungkap Strategi Jaga Likuiditas (2024/04/30)",netral
+"BI Rate Naik ke 6,25%, PNM Malah Mau Turunin Bunga! Ini Alasannya (2024/04/30)",netral
+"Laba Tugu Insurance (TUGU) Melejit 281% Jadi Rp1,32 T (2024/04/30)",positif
+"Setahun, Nilai Pinjaman GoTo Financial Melesat Lebih dari 3 Kali Lipat (2024/04/30)",positif
+"BI Rate Naik, Ini Kabar Baik Bagi Nasabah KPR BSI (2024/04/30)",netral
+"Kejar LRT Jakarta Integrasi, Waskita Genjot Pembangunan Fase 1B (2024/04/30)",positif
+"Kredit Hijau BNI Tembus Rp67,4 Triliun per Maret 2024 (2024/04/30)",positif
+"Era Suku Bunga Tinggi Bakal Lama, Bos BSI Siapkan Strategi Ini (2024/04/30)",netral
+"Ramalan Robert Kiyosaki Jadi Kenyataan, Saatnya Serok Bitcoin? (2024/04/30)",negatif
+"Top! WIKA Kantongi Kontrak Baru Senilai Rp 5,04 Triliun (2024/04/30)",positif
+"Laba Emiten Pelayaran (ELPI) Naik 56,8%, Beban Operasi Bengkak (2024/04/30)",positif
+"Kondisi Ekonomi Global Menantang, BSI Catatkan Pertumbuhan Dua Digit (2024/04/30)",netral
+"BNI Guyur Emiten Orang Terkaya RI (CUAN) Rp377 M, Duitnya Buat Ini (2024/04/30)",positif
+"Sambut Altcoin Season 2.0, Simak 3 Koin Kripto yang Bisa Bawa Cuan (2024/04/30)",positif
+BSI Masuk Top 5 Pilihan Warga RI Menabung (2024/04/30),positif
+Dalam Tiga Bulan Mobile Banking BNI Catat Transaksi Rp 347 Triiliun (2024/04/30),positif
+Ini Kunci Sukses RI Jadi Penerbit Green Sukuk Terbesar Dunia (2024/04/30),netral
+"BSI Perkirakan Kredit Industri Perbankan Tahun Ini Tumbuh 7,5% (2024/04/30)",positif
+"Tok! BEI Sekarang Review LQ45 3 Bulan Sekali, Ini Acuannya (2024/04/30)",netral
+Saham BRI (BBRI) Ngamuk & Kembali Ke Rp 5.000-an Lagi (2024/04/30),positif
+"Israel Ajukan Proposal Damai, Harga Minyak Langsung Jeblok (2024/04/30)",negatif
+"Video: Jelang FOMC The Fed, IHSG Menguat Lebih Dari 1% (2024/04/30)",positif
+"Breaking! Laba Bank Mandiri (BMRI) Tembus Rp 12,7 T per Kuartal I 2024 (2024/04/30)",positif
+Ini Alasan Lo Kheng Hong 20 Tahun Lebih Ogah Beli Saham IPO (2024/04/30),netral
+"IHSG Gaspol, 5 Saham Ini Jadi Penopangnya (2024/04/30)",positif
+"Laba Bank Danamon (BDMN) Naik 5,7%, Terganjal Beban Bunga Bengkak (2024/04/30)",positif
+"Terhantam Boikot, Pizza Hut Rugi Rp58,6 M di Kuartal-I 2024 (2024/04/30)",negatif
+Breaking! IHSG Melesat 1% & Balik Lagi ke 7.200-an (2024/04/30),positif
+"IHSG Dibuka Bergairah Lagi, Berhasil Balik ke 7.200-an Dengan Cepat (2024/04/30)",positif
+"Breaking: BSI (BRIS) Cetak Laba Rp 1,71 T Kuartal I 2024, Naik 17%! (2024/04/30)",positif
+"Laba Bank Panin (PNBN) Tumbuh 16,57% Kuartal I/2024, Ini Penyebabnya (2024/04/30)",positif
+"ETF di Hong Kong Gagal Bikin Bahagia, Kripto Ambles Berjamaah (2024/04/30)",negatif
+"Bursa Asia Ikut Jejak Wall Street, Nikkei Jepang Paling ""Ngegas"" (2024/04/30)",positif
+BNI (BBNI) Blak-blakan Sumber Pertumbuhan Kredit Kuartal I 2024 (2024/04/30),netral
+"Bahaya Dolar Rp 16.200, Ini Warning Faisal Basri ke BI (2024/04/30)",negatif
+"Dolar Sudah Tembus Rp16.250, Gimana Nasib Rupiah Hari Ini? (2024/04/30)",negatif
+"IHSG Balik Arah Menguat, Asing Ketahuan Berburu Saham Ini (2024/04/30)",positif
+"IHSG Ada Sentimen Profit Taking, Cek Rekomendasi Saham Hari Ini (2024/04/30)",positif
+"IHSG Sudah Balik Menguat, Asing Masih Net Sell Rp 400,9 M (2024/04/30)",positif
+"Dorong Penyaluran Kredit, BI Berikan Insentif Likuiditas Rp 280 T (2024/04/30)",positif

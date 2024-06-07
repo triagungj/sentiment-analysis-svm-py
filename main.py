@@ -9,6 +9,7 @@ from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFacto
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import joblib  
 
+# Download required NLTK data
 nltk.download('punkt')
 
 class SentimentAnalysis:
@@ -38,11 +39,12 @@ class SentimentAnalysis:
         return ' '.join(tokens)
     
     def prepare_data(self):
+        # Preprocess text data
         self.df['cleaned_text'] = self.df['text'].apply(self.preprocess_text)
         self.X = self.df['cleaned_text']
         self.y = self.df['sentiment']
-        print(self.X)
-        self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.X, self.y, test_size=0.2, random_state=42)
+        print("Cleaned Text Data:\n")
+        self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(self.X, self.y, test_size=0.1, random_state=42)
         self.X_train_vec = self.vectorizer.fit_transform(self.X_train)
         self.X_test_vec = self.vectorizer.transform(self.X_test)
     
@@ -62,29 +64,14 @@ class SentimentAnalysis:
         self.model, self.vectorizer = joblib.load(model_path)
         print(f"Model and vectorizer loaded from {model_path}")
     
-    def analyze_sentiment(self, text):
-        cleaned_text = self.preprocess_text(text)
-        vectorized_text = self.vectorizer.transform([cleaned_text])
-        prediction = self.model.predict(vectorized_text)
-        print(f"Text: {text}")
-        print(f"Cleaned Text: {cleaned_text}")
-        print(f"Vectorized Text: {vectorized_text}")
-        print(f"Prediction: {prediction}")
-        return prediction[0]
-    
     def run(self):
         self.load_data()
         self.prepare_data()
         self.train_model()
         self.evaluate_model()
 
-# Menggunakan kelas untuk pelatihan dan penyimpanan model
+# Using the class for training and saving the model
 sentiment_analysis = SentimentAnalysis(data_path='sentiment_dataset_id.csv')
 sentiment_analysis.run()
 sentiment_analysis.save_model('svm_model.pkl')
 
-# Memuat model dan menganalisis sentimen
-sentiment_analysis.load_model('svm_model.pkl')
-sample_text = "Industri Pinjol Rugi di Q1, Alarm Bank Bunyi!"
-predicted_sentiment = sentiment_analysis.analyze_sentiment(sample_text)
-print(f"Predicted Sentiment: {predicted_sentiment}")
