@@ -14,7 +14,7 @@ import joblib
 nltk.download('punkt')
 
 class SentimentAnalysis:
-    def __init__(self, data_path=None, model_path='svm_model.pkl', n_splits=25):
+    def __init__(self, data_path=None, model_path='svm_model.pkl', n_splits=5):
         self.data_path = data_path
         self.model_path = model_path
         self.vectorizer = CountVectorizer()
@@ -92,19 +92,11 @@ class SentimentAnalysis:
         return prediction[0]
     
     def run(self):
-        if os.path.exists(self.model_path):
-            self.load_model()
-        else:
-            self.load_data()
-            self.prepare_data()
-            self.train_and_evaluate_kfold()
-            self.save_model()
+        self.load_data()
+        self.prepare_data()
+        self.train_and_evaluate_kfold()
+        self.save_model()
 
 # Using the class for training, saving the model, or loading the model and analyzing sentiment
 sentiment_analysis = SentimentAnalysis(data_path='sentiment_dataset_id.csv')
 sentiment_analysis.run()
-
-# Analyzing sentiment of a sample text
-sample_text = "Industri Pinjol Rugi di Q1, Alarm Bank Bunyi!"
-predicted_sentiment = sentiment_analysis.analyze_sentiment(sample_text)
-print(f"Predicted Sentiment: {predicted_sentiment}")
